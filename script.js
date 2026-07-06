@@ -1,99 +1,117 @@
 // ======================================
 // PROJECT 100
-// Base Camp v0.1
+// Trailhead v0.1.1
 // ======================================
 
-// Get today's date in YYYY-MM-DD format
+// Athlete
+const athleteName = "Darren";
 
-const displayDate=new Date(mission.date);
+// ------------------------------
+// Greeting
+// ------------------------------
 
-const formattedDate=displayDate.toLocaleDateString(
-undefined,
-{
-weekday:"long",
-day:"numeric",
-month:"long"
-});
+function getGreeting() {
 
+    const hour = new Date().getHours();
 
-function getGreeting(){
-
-    const hour=new Date().getHours();
-
-    if(hour<12){
-
+    if (hour < 12) {
         return "Good morning";
-
     }
 
-    if(hour<17){
-
+    if (hour < 17) {
         return "Good afternoon";
-
     }
 
     return "Good evening";
 
 }
 
-// Find today's mission
-let mission = missions.find(m => m.date === today);
+// ------------------------------
+// Friendly date formatting
+// ------------------------------
 
-// If today's mission doesn't exist,
-// default to the first mission.
-if (!mission) {
-    mission = missions[0];
+function formatDate(dateString) {
+
+    const date = new Date(dateString);
+
+    return date.toLocaleDateString("en-GB", {
+        weekday: "long",
+        day: "numeric",
+        month: "long"
+    });
+
 }
 
-// Populate the page
-document.getElementById("greeting").textContent=
+// ------------------------------
+// Find today's expedition
+// ------------------------------
 
-`${getGreeting()}, Darren.`;
+const today = new Date().toISOString().split("T")[0];
 
-document.getElementById("blockName").textContent=
+let mission = missions.find(m => m.date === today);
 
+// Fallback if today's date isn't in this week's data
+if (!mission) {
+
+    mission = missions[0];
+
+}
+
+// ------------------------------
+// Header
+// ------------------------------
+
+document.getElementById("greeting").textContent =
+`${getGreeting()}, ${athleteName}.`;
+
+document.getElementById("blockName").textContent =
 mission.block;
 
-document.getElementById("phaseName").textContent=
-
+document.getElementById("phaseName").textContent =
 mission.phase;
 
-document.getElementById("date").textContent=
+// ------------------------------
+// Mission Card
+// ------------------------------
 
-formattedDate;
-
+document.getElementById("date").textContent =
+formatDate(mission.date);
 
 document.getElementById("missionTitle").textContent =
-    mission.title;
+`${mission.icon} ${mission.title}`;
 
 document.getElementById("workout").textContent =
-    mission.workout;
+mission.workout;
 
 document.getElementById("objective").textContent =
-    mission.objective;
+mission.objective;
 
 document.getElementById("thought").textContent =
-    mission.thought;
+mission.thought;
 
-
-// ======================================
-// Complete Mission Button
-// (temporary for Base Camp)
-// ======================================
+// ------------------------------
+// Complete Expedition Button
+// ------------------------------
 
 const completeButton =
-    document.getElementById("completeButton");
+document.getElementById("completeButton");
 
 completeButton.addEventListener("click", () => {
 
     completeButton.textContent =
-        "✓ Expedition Complete";
+    "✓ Expedition Complete";
 
     completeButton.style.background =
-        "#6A994E";
+    "#6A994E";
 
 });
 
+// ------------------------------
+// Service Worker
+// ------------------------------
+
 if ("serviceWorker" in navigator) {
+
     navigator.serviceWorker.register("sw.js");
+
 }
