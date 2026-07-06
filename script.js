@@ -49,3 +49,7 @@ completeButton.addEventListener("click", () => {
         "#6A994E";
 
 });
+
+if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("sw.js");
+}
