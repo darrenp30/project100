@@ -4,7 +4,37 @@
 // ======================================
 
 // Get today's date in YYYY-MM-DD format
-const today = new Date().toISOString().split("T")[0];
+
+const displayDate=new Date(mission.date);
+
+const formattedDate=displayDate.toLocaleDateString(
+undefined,
+{
+weekday:"long",
+day:"numeric",
+month:"long"
+});
+
+
+function getGreeting(){
+
+    const hour=new Date().getHours();
+
+    if(hour<12){
+
+        return "Good morning";
+
+    }
+
+    if(hour<17){
+
+        return "Good afternoon";
+
+    }
+
+    return "Good evening";
+
+}
 
 // Find today's mission
 let mission = missions.find(m => m.date === today);
@@ -16,8 +46,22 @@ if (!mission) {
 }
 
 // Populate the page
-document.getElementById("date").textContent =
-    `${mission.day} • ${mission.date}`;
+document.getElementById("greeting").textContent=
+
+`${getGreeting()}, Darren.`;
+
+document.getElementById("blockName").textContent=
+
+mission.block;
+
+document.getElementById("phaseName").textContent=
+
+mission.phase;
+
+document.getElementById("date").textContent=
+
+formattedDate;
+
 
 document.getElementById("missionTitle").textContent =
     mission.title;

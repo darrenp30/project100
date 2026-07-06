@@ -1,6 +1,7 @@
 // =========================================
 // PROJECT 100
-// Weekly Training Data
+// Base Camp v0.1.1 - Trailhead
+// Weekly Expedition Data
 // =========================================
 
 const missions = [
@@ -10,14 +11,26 @@ const missions = [
 
     day: "Monday",
 
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 1,
+
+    totalWeeks: 12,
+
     title: "Build the Engine",
 
     workout:
-`• Run Club 10 km
+`Run Club 10 km
 
-• Optional 2–4 km easy afterwards
+Optional 2–4 km easy afterwards
 
-• Stay conversational throughout`,
+Stay conversational throughout`,
 
     objective:
 "Re-establish your aerobic base without chasing pace. Finish feeling like you could comfortably keep going.",
@@ -31,21 +44,39 @@ const missions = [
 
     day: "Tuesday",
 
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 1,
+
+    totalWeeks: 12,
+
     title: "Forge the Legs",
 
     workout:
 `Gym Session A
 
-Back Squats
-Romanian Deadlifts
-Bulgarian Split Squats
-Calf Raises
-Tibialis Raises
+• Back Squats
+
+• Romanian Deadlifts
+
+• Bulgarian Split Squats
+
+• Standing Calf Raises
+
+• Tibialis Raises
+
+• Pallof Press
 
 Football (social only)`,
 
     objective:
-"Build resilient legs capable of carrying you over mountains for hours.",
+"Build stronger, more resilient legs for the trails ahead.",
 
     thought:
 "Strength today becomes confidence tomorrow."
@@ -55,6 +86,18 @@ Football (social only)`,
     date: "2026-07-08",
 
     day: "Wednesday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 1,
+
+    totalWeeks: 12,
 
     title: "Recover & Adapt",
 
@@ -66,7 +109,7 @@ Mobility
 Foam rolling`,
 
     objective:
-"Adaptation happens during recovery.",
+"Allow your body to absorb the work you've already done.",
 
     thought:
 "Recovery isn't time away from training. It is training."
@@ -77,15 +120,29 @@ Foam rolling`,
 
     day: "Thursday",
 
+    type: "run",
+
+    icon: "⛰️",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 1,
+
+    totalWeeks: 12,
+
     title: "Climb Strong",
 
     workout:
 `10–11 km Trail Run
 
-6 × 90 second hill repeats`,
+6 × 90 second hill repeats
+
+Easy recovery jog downhill`,
 
     objective:
-"Develop climbing strength and efficient uphill technique.",
+"Develop efficient climbing technique and trail strength.",
 
     thought:
 "Every hill makes the next one feel smaller."
@@ -96,19 +153,37 @@ Foam rolling`,
 
     day: "Friday",
 
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 1,
+
+    totalWeeks: 12,
+
     title: "Build the Frame",
 
     workout:
 `Gym Session B
 
-Deadlifts
-Walking Lunges
-Single-leg RDL
-Rows
-Farmer Carries`,
+• Deadlifts
+
+• Walking Lunges
+
+• Single-leg Romanian Deadlifts
+
+• Cable Rows
+
+• Farmer Carries
+
+Stretch afterwards`,
 
     objective:
-"Build whole-body resilience for long trail days.",
+"Build the full-body resilience needed for long days on the trail.",
 
     thought:
 "Strong bodies protect adventurous minds."
@@ -119,32 +194,52 @@ Farmer Carries`,
 
     day: "Saturday",
 
+    type: "explore",
+
+    icon: "🥾",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 1,
+
+    totalWeeks: 12,
+
     title: "Explore",
 
     workout:
-`Optional
+`Choose one:
 
-Easy 5–8 km
+• Easy 5–8 km
 
-or
+• Easy Parkrun
 
-Parkrun (easy)
-
-or
-
-Rest`,
+• Rest`,
 
     objective:
-"Move because you enjoy it.",
+"Move because you enjoy it, not because you have to.",
 
     thought:
-"Adventure begins when pressure ends."
+"Adventure begins where pressure ends."
 },
 
 {
     date: "2026-07-12",
 
     day: "Sunday",
+
+    type: "long_run",
+
+    icon: "🏔️",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 1,
+
+    totalWeeks: 12,
 
     title: "Time on Feet",
 
@@ -155,10 +250,10 @@ Practice fuelling
 
 Walk steep climbs
 
-Run relaxed descents`,
+Relax on descents`,
 
     objective:
-"Develop endurance, patience and confidence.",
+"Build endurance, patience and confidence for the bigger mountains ahead.",
 
     thought:
 "The summit belongs to those willing to keep walking."

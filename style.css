@@ -193,3 +193,77 @@ button:active {
     }
 
 }
+
+/* ==========================================
+   Trailhead Header
+========================================== */
+
+.trailhead{
+
+    margin-bottom:32px;
+
+}
+
+.logo{
+
+    width:48px;
+
+    margin-bottom:18px;
+
+}
+
+.project-title{
+
+    letter-spacing:4px;
+
+    font-size:0.8rem;
+
+    color:#6B7476;
+
+    margin-bottom:18px;
+
+}
+
+#greeting{
+
+    font-size:2rem;
+
+    color:#23374D;
+
+    margin-bottom:8px;
+
+}
+
+.screen-title{
+
+    font-size:1.2rem;
+
+    font-weight:500;
+
+    color:#355070;
+
+    margin-bottom:22px;
+
+}
+
+.training-block{
+
+    border-left:4px solid #6A994E;
+
+    padding-left:16px;
+
+}
+
+.training-block p:first-child{
+
+    font-weight:700;
+
+    color:#355070;
+
+}
+
+.training-block p:last-child{
+
+    color:#6B7476;
+
+}
