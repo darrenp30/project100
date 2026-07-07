@@ -73,7 +73,7 @@ Stay conversational throughout`,
 
 • Pallof Press
 
-Football (social only)`,
+• Football (social only)`,
 
     objective:
 "Build stronger, more resilient legs for the trails ahead.",
