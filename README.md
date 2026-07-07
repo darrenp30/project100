@@ -1,56 +1,45 @@
-# 🏔️ Project 100
+# 🏔 Project 100
 
-> **An expedition companion for endurance athletes.**
+> *A calm expedition companion for endurance athletes.*
 
-Project 100 is a calm, purpose-driven companion designed to help endurance athletes focus on today's mission while quietly preparing for tomorrow's adventure.
+Project 100 is a personal software project documenting the development of an expedition companion alongside the journey towards completing a first 100 km ultra.
 
-It is not a training tracker.
+Unlike most fitness applications, Project 100 does not aim to replace platforms such as COROS, Strava or TrainingPeaks.
 
-It is not a social network.
+Instead, it answers one simple question:
 
-It is not a replacement for your watch.
-
-It is an expedition journal.
+> **What matters today?**
 
 ---
 
 ## Philosophy
 
-Project 100 is built around one simple belief:
+Project 100 is built on a small number of guiding principles.
 
-> **Every summit reveals another horizon.**
-
-Training is not about reaching one finish line.
-
-It is about becoming the sort of person who is always ready for the next adventure.
-
----
-
-## Design Principles
-
-- Every session has a purpose.
-- Consistency beats perfection.
-- Recovery is training.
-- Train for the runner you want to become.
+- Calm before clever.
+- One card. One purpose.
+- Mindset before metrics.
+- Software should disappear.
+- Build confidence, not dependence.
 - Every summit reveals another horizon.
 
----
-
-## Our Values
-
-✔ Calm before clever.
-
-✔ Purpose before features.
-
-✔ Simplicity before complexity.
-
-✔ Progress before perfection.
-
-✔ Delight in the details.
+Every feature must earn its place.
 
 ---
 
-## Development Roadmap
+## Current Status
+
+**Current Release**
+
+🏕 Base Camp (v0.1.0)
+
+**Current Development Sprint**
+
+🥾 Trailhead (v0.1.1)
+
+---
+
+## Roadmap
 
 🏕 Base Camp
 
@@ -64,18 +53,43 @@ It is about becoming the sort of person who is always ready for the next adventu
 
 ---
 
-## Current Status
+## Repository Structure
 
-**Current Release**
+```
+assets/
+css/
+data/
+docs/
+js/
 
-🏕 Base Camp
-
-Repository created.
-
-Foundations being laid.
+index.html
+manifest.json
+sw.js
+README.md
+CHANGELOG.md
+```
 
 ---
 
-*"Strong expeditions aren't built on extraordinary days.*
+## Documentation
 
-*They're built on ordinary days repeated with purpose."*
+| Document | Purpose |
+|-----------|---------|
+| Product Specification | Defines what Project 100 should become |
+| Design System | Defines how Project 100 should look and feel |
+| Development Charter | Defines how the project is built |
+| Roadmap | Software development roadmap |
+| Expedition Log | Narrative history of the project |
+| Project Principles | The philosophy behind every decision |
+
+---
+
+## Vision
+
+Project 100 should become something that is opened for seconds but remembered for hours.
+
+It exists to quietly prepare the athlete for today's expedition before getting out of the way.
+
+---
+
+*"One purposeful step today."*
