@@ -1,0 +1,64 @@
+/*
+==========================================
+PROJECT 100 DESIGN SYSTEM
+Version 1.0
+==========================================
+*/
+
+:root {
+
+  /* Colours */
+
+  --background: #F5F3EE;
+  --card: #FFFFFF;
+
+  --primary: #23374D;
+  --secondary: #355070;
+
+  --accent: #6A994E;
+
+  --text: #2E3A3A;
+  --muted: #6B7476;
+
+  --success: #6A994E;
+  --warning: #D4A017;
+  --danger: #B85042;
+
+  --shadow: rgba(0,0,0,0.08);
+
+  /* Typography */
+
+  --font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+
+  --heading-size: 2rem;
+  --section-size: 1.2rem;
+  --body-size: 1rem;
+  --caption-size: 0.85rem;
+
+  --line-height: 1.6;
+
+  /* Layout */
+
+  --space-xs: 8px;
+  --space-sm: 16px;
+  --space-md: 24px;
+  --space-lg: 32px;
+  --space-xl: 48px;
+
+  --radius: 18px;
+
+  --max-width: 480px;
+
+  /* Effects */
+
+  --card-shadow:
+    0 6px 18px rgba(0,0,0,.06);
+
+  --transition:
+    250ms ease;
+
+}
