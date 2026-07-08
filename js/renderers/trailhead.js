@@ -21,7 +21,6 @@ function renderTrailhead() {
 
         scene.innerHTML = `
 
-            ${renderExpeditionStatus(today)}
             <section class="card">
 
                 <h2>No Expedition Planned</h2>
@@ -43,7 +42,7 @@ function renderTrailhead() {
         <section class="card">
 
             <p class="date">
-                ${today.day} • ${today.date}
+            ${formatExpeditionDate(today.date)}
             </p>
 
             <h2>
@@ -55,6 +54,8 @@ function renderTrailhead() {
             </p>
 
         </section>
+        
+                                    ${renderExpeditionStatus(today)}
 
         <section class="card">
 
@@ -65,6 +66,7 @@ function renderTrailhead() {
             </p>
 
         </section>
+        
 
         <section class="card">
 

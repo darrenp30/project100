@@ -92,3 +92,18 @@ function formatToday() {
     );
 
 }
+
+function formatExpeditionDate(dateString) {
+
+    const date = new Date(dateString);
+
+    return date.toLocaleDateString(
+        "en-GB",
+        {
+            weekday: "long",
+            day: "numeric",
+            month: "long"
+        }
+    );
+
+}
