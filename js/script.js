@@ -1,17 +1,51 @@
-window.onload = () => {
+/*
+==========================================
+PROJECT 100
+Application Startup
+Version 1.0
+==========================================
+*/
 
-    const SCENES = {
+const SCENES = {
 
     TRAILHEAD: "trailhead",
-
     MAP: "map",
-
-    BASE_CAMP: "basecamp",
-
+    BASECAMP: "basecamp",
     JOURNAL: "journal"
 
 };
 
-renderScene(SCENES.TRAILHEAD);
+function renderScene(scene) {
 
-};
+    switch (scene) {
+
+        case SCENES.TRAILHEAD:
+            renderTrailhead();
+            break;
+
+        case SCENES.MAP:
+            renderMap();
+            break;
+
+        case SCENES.BASECAMP:
+            renderBaseCamp();
+            break;
+
+        case SCENES.JOURNAL:
+            renderJournal();
+            break;
+
+        default:
+            renderTrailhead();
+
+    }
+
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+
+    buildAppShell();
+
+    renderScene(SCENES.TRAILHEAD);
+
+});
