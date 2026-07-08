@@ -11,11 +11,15 @@ function buildAppShell() {
     const app = document.getElementById("app");
 
     app.innerHTML = `
-        <header id="app-header"></header>
+        <div class="app-shell">
 
-        <main id="scene"></main>
+    <header id="app-header"></header>
 
-        <nav id="navigation"></nav>
+    <main id="scene"></main>
+
+    <nav id="navigation"></nav>
+
+</div>
     `;
 
 }

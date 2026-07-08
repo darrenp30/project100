@@ -267,3 +267,65 @@ button:active {
     color:#6B7476;
 
 }
+
+/* ==========================================
+   Navigation
+========================================== */
+
+#navigation {
+
+    display: flex;
+
+    justify-content: space-around;
+
+    align-items: center;
+
+    padding: var(--space-sm);
+
+    background: var(--card);
+
+}
+
+.nav-item {
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    gap: 4px;
+
+    background: none;
+
+    border: none;
+
+    color: var(--muted);
+
+    cursor: pointer;
+
+    transition: var(--transition);
+
+    font: inherit;
+
+}
+
+.nav-item.active {
+
+    color: var(--primary);
+
+    font-weight: 600;
+
+}
+
+.nav-icon {
+
+    font-size: 1.2rem;
+
+}
+
+.nav-label {
+
+    font-size: 0.8rem;
+
+}

@@ -10,35 +10,20 @@ const SCENES = {
 
     TRAILHEAD: "trailhead",
     MAP: "map",
-    BASECAMP: "basecamp",
+    BASE_CAMP: "basecamp",
     JOURNAL: "journal"
 
 };
 
-function renderScene(scene) {
+let currentScene = SCENES.TRAILHEAD;
 
-    switch (scene) {
+function changeScene(scene) {
 
-        case SCENES.TRAILHEAD:
-            renderTrailhead();
-            break;
+    currentScene = scene;
 
-        case SCENES.MAP:
-            renderMap();
-            break;
+    renderScene(scene);
 
-        case SCENES.BASECAMP:
-            renderBaseCamp();
-            break;
-
-        case SCENES.JOURNAL:
-            renderJournal();
-            break;
-
-        default:
-            renderTrailhead();
-
-    }
+    buildNavigation(scene);
 
 }
 
@@ -46,6 +31,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     buildAppShell();
 
-    renderScene(SCENES.TRAILHEAD);
+    changeScene(SCENES.TRAILHEAD);
 
 });

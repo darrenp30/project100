@@ -13,7 +13,7 @@ function renderTrailhead() {
         "Ready for today's expedition?"
     );
 
-    const scene = getSceneContainer();
+    const scene = getScene();
 
     scene.innerHTML = `
 
