@@ -1,110 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<script src="data/missions.js"></script>
-<script src="data/checkins.js"></script>
-<script src="js/renderers/appShell.js"></script>
-<script src="js/renderers/trailhead.js"></script>
-<script src="js/renderers/basecamp.js"></script>
-<script src="js/renderers/map.js"></script>
-<script src="js/renderers/journal.js"></script>
-<script src="js/navigation.js"></script>
-<script src="js/script.js"></script>
-
 <head>
 
     <meta charset="UTF-8">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
 
     <title>Project 100</title>
 
+    <!-- Theme -->
 
-<link rel="stylesheet" href="css/style.css">
-    
-    <meta name="theme-color" content="#355070">
+    <link rel="stylesheet" href="css/theme.css">
+    <link rel="stylesheet" href="css/style.css">
 
-<link rel="manifest" href="manifest.json">
+    <!-- PWA -->
 
-<link rel="apple-touch-icon" href="assets/icon-192.png">
+    <meta name="theme-color"
+          content="#355070">
 
-<meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="manifest"
+          href="manifest.json">
 
-<meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <link rel="apple-touch-icon"
+          href="assets/icon-192.png">
 
-<meta name="apple-mobile-web-app-title" content="Project 100">
+    <meta name="apple-mobile-web-app-capable"
+          content="yes">
+
+    <meta name="apple-mobile-web-app-status-bar-style"
+          content="default">
+
+    <meta name="apple-mobile-web-app-title"
+          content="Project 100">
 
 </head>
 
 <body>
 
-<div class="app">
+    <div id="app"></div>
 
-    <header class="trailhead">
+    <!-- Data -->
 
-    <img src="assets/icon-192.png"
-         class="logo"
-         alt="Project 100">
+    <script src="data/expedition.js"></script>
+    <script src="data/checkins.js"></script>
 
-    <p class="project-title">
-        PROJECT 100
-    </p>
+    <!-- Application Shell -->
 
-    <h1 id="greeting">
-        Good morning, Darren.
-    </h1>
+    <script src="js/renderers/appShell.js"></script>
 
-    <h2 class="screen-title">
-        Ready for today's expedition?
-    </h2>
+    <!-- Scene Renderers -->
 
-    <div class="training-block">
+    <script src="js/renderers/trailhead.js"></script>
+    <script src="js/renderers/basecamp.js"></script>
+    <script src="js/renderers/map.js"></script>
+    <script src="js/renderers/journal.js"></script>
 
-        <p id="blockName"></p>
+    <!-- Navigation -->
 
-        <p id="phaseName"></p>
+    <script src="js/navigation.js"></script>
 
-    </div>
+    <!-- Application -->
 
-</header>
-
-    <main>
-
-        <section class="card">
-
-            <p class="date" id="date"></p>
-
-            <h2 id="missionTitle"></h2>
-
-            <p id="workout"></p>
-
-        </section>
-
-        <section class="card">
-
-            <h3>Mission Objective</h3>
-
-            <p id="objective"></p>
-
-        </section>
-
-        <section class="card">
-
-            <h3>Today's Thought</h3>
-
-            <blockquote id="thought"></blockquote>
-
-        </section>
-
-        <button id="completeButton">
-
-            ✓ Complete Mission
-
-        </button>
-
-    </main>
-
-</div>
+    <script src="js/script.js"></script>
 
 </body>
 
