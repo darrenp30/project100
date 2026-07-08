@@ -1,6 +1,6 @@
 function renderTrailhead() {
 
-    return `
+    return
         <!DOCTYPE html>
 <html lang="en">
 
@@ -106,6 +106,6 @@ function renderTrailhead() {
 </body>
 
 </html>
-    `;
+    ;
 
 }
