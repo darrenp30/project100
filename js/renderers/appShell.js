@@ -57,7 +57,7 @@ function setHeader(title = "", subtitle = "") {
 
 }
 
-function getSceneContainer() {
+function getScene() {
 
     return document.getElementById("scene");
 
