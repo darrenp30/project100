@@ -1,111 +1,15 @@
 function renderTrailhead() {
 
-    return
-        <!DOCTYPE html>
-<html lang="en">
+    return `
+                <section class="card">
 
-<head>
+            <h2>🏕 Trailhead</h2>
 
-    <meta charset="UTF-8">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Project 100</title>
-
-
-<link rel="stylesheet" href="css/style.css">
-    
-    <meta name="theme-color" content="#355070">
-
-<link rel="manifest" href="manifest.json">
-
-<link rel="apple-touch-icon" href="assets/icon-192.png">
-
-<meta name="apple-mobile-web-app-capable" content="yes">
-
-<meta name="apple-mobile-web-app-status-bar-style" content="default">
-
-<meta name="apple-mobile-web-app-title" content="Project 100">
-
-</head>
-
-<body>
-
-<div class="app">
-
-    <header class="trailhead">
-
-    <img src="assets/icon-192.png"
-         class="logo"
-         alt="Project 100">
-
-    <p class="project-title">
-        PROJECT 100
-    </p>
-
-    <h1 id="greeting">
-        Good morning, Darren.
-    </h1>
-
-    <h2 class="screen-title">
-        Ready for today's expedition?
-    </h2>
-
-    <div class="training-block">
-
-        <p id="blockName"></p>
-
-        <p id="phaseName"></p>
-
-    </div>
-
-</header>
-
-    <main>
-
-        <section class="card">
-
-            <p class="date" id="date"></p>
-
-            <h2 id="missionTitle"></h2>
-
-            <p id="workout"></p>
+            <p>
+                test successful
+            </p>
 
         </section>
-
-        <section class="card">
-
-            <h3>Mission Objective</h3>
-
-            <p id="objective"></p>
-
-        </section>
-
-        <section class="card">
-
-            <h3>Today's Thought</h3>
-
-            <blockquote id="thought"></blockquote>
-
-        </section>
-
-        <button id="completeButton">
-
-            ✓ Complete Mission
-
-        </button>
-
-    </main>
-
-</div>
-
-<script src="data/missions.js"></script>
-
-<script src="js/script.js"></script>
-
-</body>
-
-</html>
-    ;
+    `;
 
 }
