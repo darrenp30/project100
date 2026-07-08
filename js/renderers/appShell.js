@@ -62,3 +62,33 @@ function getScene() {
     return document.getElementById("scene");
 
 }
+
+function getGreeting() {
+
+    const hour = new Date().getHours();
+
+    if (hour < 12) {
+        return "Good morning";
+    }
+
+    if (hour < 18) {
+        return "Good afternoon";
+    }
+
+    return "Good evening";
+
+}
+
+function formatToday() {
+
+    return new Date().toLocaleDateString(
+        "en-GB",
+        {
+            weekday: "long",
+            year: "numeric",
+            month: "long",
+            day: "numeric"
+        }
+    );
+
+}

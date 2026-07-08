@@ -2,33 +2,56 @@
 ==========================================
 PROJECT 100
 Trailhead Renderer
-Version 1.0
+Version 2.0
 ==========================================
 */
 
 function renderTrailhead() {
 
+    const today = getTodaysExpedition();
+
     setHeader(
-        "Good morning, Darren.",
+        `${getGreeting()}, Darren.`,
         "Ready for today's expedition?"
     );
 
     const scene = getScene();
+
+    if (!today) {
+
+        scene.innerHTML = `
+
+            ${renderExpeditionStatus(today)}
+            <section class="card">
+
+                <h2>No Expedition Planned</h2>
+
+                <p>
+                    There isn't an expedition scheduled for today.
+                </p>
+
+            </section>
+
+        `;
+
+        return;
+
+    }
 
     scene.innerHTML = `
 
         <section class="card">
 
             <p class="date">
-                Wednesday 9 July
+                ${today.day} • ${today.date}
             </p>
 
             <h2>
-                Trailhead Initialised
+                ${today.icon} ${today.title}
             </h2>
 
-            <p>
-                The new application architecture is working.
+            <p style="white-space: pre-line;">
+                ${today.workout}
             </p>
 
         </section>
@@ -38,7 +61,7 @@ function renderTrailhead() {
             <h3>Mission Objective</h3>
 
             <p>
-                Confirm the application shell and renderer system before reconnecting expedition data.
+                ${today.objective}
             </p>
 
         </section>
@@ -48,7 +71,7 @@ function renderTrailhead() {
             <h3>Today's Thought</h3>
 
             <blockquote>
-                Every well-built expedition begins with a solid base camp.
+                ${today.thought}
             </blockquote>
 
         </section>

@@ -329,3 +329,55 @@ button:active {
     font-size: 0.8rem;
 
 }
+
+/* ==========================================
+   Expedition Status
+========================================== */
+
+.expedition-status {
+
+    text-align: center;
+
+}
+
+.status-block {
+
+    font-size: 1.4rem;
+
+    font-weight: 600;
+
+    color: var(--primary);
+
+    margin: 1rem 0 0.25rem;
+
+}
+
+.status-phase {
+
+    color: var(--muted);
+
+    margin-bottom: 1.25rem;
+
+}
+
+.status-divider {
+
+    width: 50%;
+
+    margin: 0 auto 1.25rem;
+
+    border: none;
+
+    border-top: 1px solid rgba(0,0,0,0.08);
+
+}
+
+.status-week {
+
+    font-weight: 600;
+
+    color: var(--primary);
+
+    margin: 0;
+
+}

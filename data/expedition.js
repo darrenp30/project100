@@ -4,7 +4,7 @@
 // Weekly Expedition Data
 // =========================================
 
-const missions = [
+const expedition = [
 
 {
     date: "2026-07-06",
@@ -260,3 +260,15 @@ Relax on descents`,
 }
 
 ];
+
+// =========================================
+// Helper Functions
+// =========================================
+
+function getTodaysExpedition() {
+
+    const today = new Date().toISOString().split("T")[0];
+
+    return expedition.find(day => day.date === today);
+
+}
