@@ -31,8 +31,8 @@ function buildNavigation(activeScene = SCENES.TRAILHEAD) {
         </button>
 
         <button
-            class="nav-item ${activeScene === SCENES.BASECAMP ? "active" : ""}"
-            onclick="changeScene(SCENES.BASECAMP)">
+            class="nav-item ${activeScene === SCENES.BASE_CAMP ? "active" : ""}"
+            onclick="changeScene(SCENES.BASE_CAMP)">
 
             <span class="nav-icon">🏕</span>
             <span class="nav-label">Base Camp</span>

@@ -27,6 +27,33 @@ function changeScene(scene) {
 
 }
 
+function renderScene(scene) {
+
+    switch (scene) {
+
+        case SCENES.TRAILHEAD:
+            renderTrailhead();
+            break;
+
+        case SCENES.MAP:
+            renderMap();
+            break;
+
+        case SCENES.BASE_CAMP:
+            renderBaseCamp();
+            break;
+
+        case SCENES.JOURNAL:
+            renderJournal();
+            break;
+
+        default:
+            renderTrailhead();
+
+    }
+
+}
+
 document.addEventListener("DOMContentLoaded", () => {
 
     buildAppShell();
