@@ -259,6 +259,263 @@ Relax on descents`,
 "The summit belongs to those willing to keep walking."
 }
 
+{
+    date: "2026-07-13",
+
+    day: "Monday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 2,
+
+    totalWeeks: 12,
+
+    title: "Keep the Engine Turning",
+
+    workout:
+`7–8 km Easy Run
+
+4–6 × 20 second relaxed strides
+
+Walk back after each stride`,
+
+    objective:
+"Maintain aerobic fitness while recovering from yesterday's long trail run. Finish feeling refreshed rather than fatigued.",
+
+    thought:
+"Consistency beats intensity when building lasting endurance."
+},
+
+{
+    date: "2026-07-14",
+
+    day: "Tuesday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 2,
+
+    totalWeeks: 12,
+
+    title: "Forge the Legs",
+
+    workout:
+`Gym Session A
+
+• Back Squats
+
+• Romanian Deadlifts
+
+• Bulgarian Split Squats
+
+• Standing Calf Raises
+
+• Tibialis Raises
+
+• Pallof Press
+
+• Football (social only)`,
+
+    objective:
+"Build resilient strength while keeping movement quality high throughout every exercise.",
+
+    thought:
+"Strong foundations make every summit more achievable."
+},
+
+{
+    date: "2026-07-15",
+
+    day: "Wednesday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 2,
+
+    totalWeeks: 12,
+
+    title: "Recover & Adapt",
+
+    workout:
+`45–60 minute walk
+
+Mobility
+
+Foam rolling`,
+
+    objective:
+"Allow your body to absorb this week's training and prepare for the next quality session.",
+
+    thought:
+"Fitness grows during recovery, not during the workout."
+},
+
+{
+    date: "2026-07-16",
+
+    day: "Thursday",
+
+    type: "run",
+
+    icon: "⛰️",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 2,
+
+    totalWeeks: 12,
+
+    title: "Climb with Control",
+
+    workout:
+`10–11 km Trail Run
+
+6 × 90 second hill repeats
+
+Easy recovery jog downhill
+
+Reduce to 5 repeats if conditions are very hot`,
+
+    objective:
+"Develop efficient climbing strength while maintaining smooth, controlled running form.",
+
+    thought:
+"The strongest climbers aren't always the fastest—they're the most efficient."
+},
+
+{
+    date: "2026-07-17",
+
+    day: "Friday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 2,
+
+    totalWeeks: 12,
+
+    title: "Build the Frame",
+
+    workout:
+`Gym Session B
+
+• Deadlifts
+
+• Walking Lunges
+
+• Single-leg Romanian Deadlifts
+
+• Cable Rows
+
+• Farmer Carries
+
+Stretch afterwards`,
+
+    objective:
+"Continue developing the strength and stability needed for long days on the trails.",
+
+    thought:
+"Strength quietly supports every mile you'll run."
+},
+
+{
+    date: "2026-07-18",
+
+    day: "Saturday",
+
+    type: "explore",
+
+    icon: "🥾",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 2,
+
+    totalWeeks: 12,
+
+    title: "Explore",
+
+    workout:
+`Choose one:
+
+• Easy 5–8 km
+
+• Easy Parkrun
+
+• Rest`,
+
+    objective:
+"Move because you enjoy being outdoors, not because the training plan demands it.",
+
+    thought:
+"Every trail has a story—go and find one."
+},
+
+{
+    date: "2026-07-19",
+
+    day: "Sunday",
+
+    type: "long_run",
+
+    icon: "🏔️",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 2,
+
+    totalWeeks: 12,
+
+    title: "Time on Feet",
+
+    workout:
+`22–24 km Trail Run
+
+Easy conversational effort
+
+Practise fuelling
+
+Walk steep climbs
+
+Enjoy the journey`,
+
+    objective:
+"Continue building endurance through relaxed time on feet while refining your fuelling and pacing strategy.",
+
+    thought:
+"The mountain rewards those who keep showing up, one expedition at a time."
+}
+
 ];
 
 // =========================================

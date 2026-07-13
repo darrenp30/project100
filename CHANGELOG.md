@@ -22,9 +22,9 @@ Released: July 2026
 
 # 🥾 v0.1.1 — Trailhead
 
-Status: In Development
+Released: July 2026
 
-## Planned
+## Added
 
 - Welcome experience
 - Human-friendly dates
@@ -33,3 +33,27 @@ Status: In Development
 - Improved information hierarchy
 - Mission icons
 - Expedition progress
+
+
+——-
+
+# ⛰️ v0.3.0 - Application Framework
+
+Released: July 2026
+
+### Added
+- Application shell
+- Scene renderer architecture
+- Navigation
+- Expedition Status component
+
+### Changed
+- Trailhead migrated to new architecture
+- Human-friendly date formatting
+- Adaptive greeting
+
+### Fixed
+- Renderer initialisation issues
+- Scene navigation stability
+
+ 
