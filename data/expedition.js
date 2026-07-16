@@ -257,7 +257,7 @@ Relax on descents`,
 
     thought:
 "The summit belongs to those willing to keep walking."
-}
+},
 
 {
     date: "2026-07-13",
