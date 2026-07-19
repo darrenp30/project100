@@ -264,9 +264,9 @@ Relax on descents`,
 
     day: "Monday",
 
-    type: "run",
+    type: "rest",
 
-    icon: "🏃",
+    icon: "🌿",
 
     block: "Trail Builder",
 
@@ -276,20 +276,18 @@ Relax on descents`,
 
     totalWeeks: 12,
 
-    title: "Keep the Engine Turning",
+    title: "Rest & Reset",
 
     workout:
-`7–8 km Easy Run
+`Rest Day
 
-4–6 × 20 second relaxed strides
-
-Walk back after each stride`,
+Planned lunchtime run not completed due to work commitments and evening plans`,
 
     objective:
-"Maintain aerobic fitness while recovering from yesterday's long trail run. Finish feeling refreshed rather than fatigued.",
+"Allow the body to recover and reset before continuing the week's training.",
 
     thought:
-"Consistency beats intensity when building lasting endurance."
+"One missed run doesn't change the direction of the journey."
 },
 
 {
@@ -309,30 +307,23 @@ Walk back after each stride`,
 
     totalWeeks: 12,
 
-    title: "Forge the Legs",
+    title: "Strength & Play",
 
     workout:
 `Gym Session A
 
-• Back Squats
+Football
 
-• Romanian Deadlifts
+2.69 km
+1:00:40 activity time
 
-• Bulgarian Split Squats
-
-• Standing Calf Raises
-
-• Tibialis Raises
-
-• Pallof Press
-
-• Football (social only)`,
+Social football in hot conditions`,
 
     objective:
-"Build resilient strength while keeping movement quality high throughout every exercise.",
+"Build strength and resilience while using football as a varied, higher-intensity movement session.",
 
     thought:
-"Strong foundations make every summit more achievable."
+"Strong foundations are built in more than one way."
 },
 
 {
@@ -355,17 +346,15 @@ Walk back after each stride`,
     title: "Recover & Adapt",
 
     workout:
-`45–60 minute walk
+`Recovery Day
 
-Mobility
-
-Foam rolling`,
+Easy movement as desired`,
 
     objective:
-"Allow your body to absorb this week's training and prepare for the next quality session.",
+"Allow the body to absorb the week's work before the next running session.",
 
     thought:
-"Fitness grows during recovery, not during the workout."
+"Recovery creates the space where training becomes progress."
 },
 
 {
@@ -375,7 +364,7 @@ Foam rolling`,
 
     type: "run",
 
-    icon: "⛰️",
+    icon: "🏃",
 
     block: "Trail Builder",
 
@@ -385,22 +374,22 @@ Foam rolling`,
 
     totalWeeks: 12,
 
-    title: "Climb with Control",
+    title: "Adapt the Mission",
 
     workout:
-`10–11 km Trail Run
+`5.29 km Easy Run
 
-6 × 90 second hill repeats
+32:17
 
-Easy recovery jog downhill
+Planned hill repeats replaced with an easy assessment run due to mild right arch discomfort
 
-Reduce to 5 repeats if conditions are very hot`,
+Pain disappeared after 2–3 minutes and remained absent throughout the run`,
 
     objective:
-"Develop efficient climbing strength while maintaining smooth, controlled running form.",
+"Maintain aerobic movement while assessing the foot under controlled load and avoiding unnecessary hill intensity.",
 
     thought:
-"The strongest climbers aren't always the fastest—they're the most efficient."
+"Adapting the route is not abandoning the expedition."
 },
 
 {
@@ -408,9 +397,9 @@ Reduce to 5 repeats if conditions are very hot`,
 
     day: "Friday",
 
-    type: "gym",
+    type: "rest",
 
-    icon: "💪",
+    icon: "🌿",
 
     block: "Trail Builder",
 
@@ -420,28 +409,18 @@ Reduce to 5 repeats if conditions are very hot`,
 
     totalWeeks: 12,
 
-    title: "Build the Frame",
+    title: "Protect the Foundation",
 
     workout:
-`Gym Session B
+`Rest Day
 
-• Deadlifts
-
-• Walking Lunges
-
-• Single-leg Romanian Deadlifts
-
-• Cable Rows
-
-• Farmer Carries
-
-Stretch afterwards`,
+Gym Session B not completed`,
 
     objective:
-"Continue developing the strength and stability needed for long days on the trails.",
+"Prioritise recovery and allow the right arch to continue settling before the weekend's endurance work.",
 
     thought:
-"Strength quietly supports every mile you'll run."
+"Sometimes the strongest training decision is knowing when not to add more."
 },
 
 {
@@ -461,22 +440,24 @@ Stretch afterwards`,
 
     totalWeeks: 12,
 
-    title: "Explore",
+    title: "Explore Savernake",
 
     workout:
-`Choose one:
+`15.18 km Social Walk
 
-• Easy 5–8 km
+Savernake Forest
 
-• Easy Parkrun
+3:24:39
 
-• Rest`,
+Easy walking with Lois
+
+Right arch felt fully recovered after the walk`,
 
     objective:
-"Move because you enjoy being outdoors, not because the training plan demands it.",
+"Enjoy relaxed time outdoors while maintaining gentle movement and assessing how the foot responds to extended time on feet.",
 
     thought:
-"Every trail has a story—go and find one."
+"Not every adventure needs to be fast to move you forward."
 },
 
 {
@@ -496,6 +477,238 @@ Stretch afterwards`,
 
     totalWeeks: 12,
 
+    title: "Journey to Barbury",
+
+    workout:
+`22.37 km Trail Run
+
+2:45:59
+478 m elevation gain
+
+Easy endurance effort from home towards Barbury Castle
+
+Then:
+
+Rest-stop practice
+Change clothing and socks
+Refuel with solid food
+Rehydrate
+
+Followed by:
+
+8.31 km Social Walk
+2:00:02
+
+30.68 km total distance
+Approximately 4 hours 46 minutes total moving time
+
+Right arch remained pain-free throughout`,
+
+    objective:
+"Build endurance through a long trail run followed by a realistic rest-stop transition and extended easy walking, while practising fuelling, hydration and time on feet.",
+
+    thought:
+"The expedition is more than the miles. Learn how to keep moving."
+},
+
+{
+    date: "2026-07-20",
+
+    day: "Monday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 3,
+
+    totalWeeks: 12,
+
+    title: "Absorb the Adventure",
+
+    workout:
+`Recovery Day
+
+Rest
+
+Optional easy walk
+
+Gentle mobility`,
+
+    objective:
+"Allow the body to absorb Sunday's extended endurance session and begin the new week refreshed.",
+
+    thought:
+"Progress happens when hard work is given time to settle."
+},
+
+{
+    date: "2026-07-21",
+
+    day: "Tuesday",
+
+    type: "football",
+
+    icon: "⚽",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 3,
+
+    totalWeeks: 12,
+
+    title: "Move & Play",
+
+    workout:
+`Social Football
+
+Keep the effort controlled
+
+No additional running required`,
+
+    objective:
+"Use varied movement and social activity as this week's first higher-intensity stimulus while monitoring recovery from the weekend.",
+
+    thought:
+"Not every session needs to feel like training to make you stronger."
+},
+
+{
+    date: "2026-07-22",
+
+    day: "Wednesday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 3,
+
+    totalWeeks: 12,
+
+    title: "Forge the Legs",
+
+    workout:
+`Gym Session A
+
+• Back Squats
+
+• Romanian Deadlifts
+
+• Bulgarian Split Squats
+
+• Standing Calf Raises
+
+• Tibialis Raises
+
+• Pallof Press
+
+Keep loads controlled and prioritise good movement`,
+
+    objective:
+"Develop resilient lower-body strength while maintaining enough recovery for the week's key running sessions.",
+
+    thought:
+"Strength is built patiently, one good repetition at a time."
+},
+
+{
+    date: "2026-07-23",
+
+    day: "Thursday",
+
+    type: "run",
+
+    icon: "⛰️",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 3,
+
+    totalWeeks: 12,
+
+    title: "Find Your Rhythm",
+
+    workout:
+`8–10 km Easy Trail Run
+
+Include 4 × 60 second controlled uphill efforts if the right arch remains completely settled
+
+Easy recovery between efforts
+
+Keep the overall run conversational`,
+
+    objective:
+"Reintroduce controlled climbing intensity without creating unnecessary fatigue before the weekend's long run.",
+
+    thought:
+"Climb with patience and the mountain will teach you rhythm."
+},
+
+{
+    date: "2026-07-24",
+
+    day: "Friday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 3,
+
+    totalWeeks: 12,
+
+    title: "Prepare for the Trail",
+
+    workout:
+`Rest Day
+
+Optional easy walk
+
+Light mobility
+
+Prepare kit and fuelling for Saturday`,
+
+    objective:
+"Arrive at Saturday's long run rested, prepared and ready to enjoy extended time on the trails.",
+
+    thought:
+"A good expedition begins before the first step."
+},
+
+{
+    date: "2026-07-25",
+
+    day: "Saturday",
+
+    type: "long_run",
+
+    icon: "🏔️",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 3,
+
+    totalWeeks: 12,
+
     title: "Time on Feet",
 
     workout:
@@ -503,18 +716,66 @@ Stretch afterwards`,
 
 Easy conversational effort
 
-Practise fuelling
+Practise fuelling and hydration
 
 Walk steep climbs
 
-Enjoy the journey`,
+Choose enjoyable, runnable trails
+
+No need to chase pace or distance`,
 
     objective:
-"Continue building endurance through relaxed time on feet while refining your fuelling and pacing strategy.",
+"Consolidate endurance through relaxed time on feet while continuing to develop trail confidence, pacing and fuelling habits.",
 
     thought:
-"The mountain rewards those who keep showing up, one expedition at a time."
-}
+"Endurance is built by learning to feel at home on the long road."
+},
+
+{
+    date: "2026-07-26",
+
+    day: "Sunday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 3,
+
+    totalWeeks: 12,
+
+    title: "Recover or Rebuild",
+
+    workout:
+`Choose based on recovery:
+
+Option 1
+Complete Rest
+
+Option 2
+Easy Recovery Walk
+
+Option 3
+Gym Session B if legs and right arch feel fully recovered
+
+• Deadlifts
+• Walking Lunges
+• Single-leg Romanian Deadlifts
+• Cable Rows
+• Farmer Carries
+
+Do not complete Gym B simply to tick the box`,
+
+    objective:
+"Respond to the body's recovery needs after Saturday's long run, adding strength only when it supports rather than compromises adaptation.",
+
+    thought:
+"The plan guides the expedition. Your body chooses the pace."
+},
 
 ];
 
