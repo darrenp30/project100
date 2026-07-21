@@ -516,6 +516,43 @@ Right arch remained pain-free throughout`,
 
     day: "Monday",
 
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 3,
+
+    totalWeeks: 12,
+
+    title: "Build the Engine",
+
+    workout:
+`Run Club
+
+10.01 km
+
+1:05:52
+
+Average pace: 6:35/km
+
+Steady aerobic running`,
+
+    objective:
+"Continue rebuilding aerobic endurance through a sustained Run Club effort while allowing the body to settle naturally into a comfortable rhythm.",
+
+    thought:
+"Consistency turns ordinary miles into extraordinary journeys."
+},
+
+{
+    date: "2026-07-21",
+
+    day: "Tuesday",
+
     type: "recovery",
 
     icon: "🌿",
@@ -528,55 +565,22 @@ Right arch remained pain-free throughout`,
 
     totalWeeks: 12,
 
-    title: "Absorb the Adventure",
+    title: "Recover & Adapt",
 
     workout:
 `Recovery Day
 
-Rest
+Football cancelled
 
 Optional easy walk
 
 Gentle mobility`,
 
     objective:
-"Allow the body to absorb Sunday's extended endurance session and begin the new week refreshed.",
+"Absorb Monday's running stimulus and arrive fresh enough to complete the week's strength and trail sessions well.",
 
     thought:
-"Progress happens when hard work is given time to settle."
-},
-
-{
-    date: "2026-07-21",
-
-    day: "Tuesday",
-
-    type: "football",
-
-    icon: "⚽",
-
-    block: "Trail Builder",
-
-    phase: "Rebuild & Strength Foundation",
-
-    week: 3,
-
-    totalWeeks: 12,
-
-    title: "Move & Play",
-
-    workout:
-`Social Football
-
-Keep the effort controlled
-
-No additional running required`,
-
-    objective:
-"Use varied movement and social activity as this week's first higher-intensity stimulus while monitoring recovery from the weekend.",
-
-    thought:
-"Not every session needs to feel like training to make you stronger."
+"Recovery is where yesterday's effort becomes tomorrow's strength."
 },
 
 {
