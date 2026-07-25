@@ -781,6 +781,284 @@ Do not complete Gym B simply to tick the box`,
 "The plan guides the expedition. Your body chooses the pace."
 },
 
+{
+    date: "2026-07-27",
+
+    day: "Monday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 4,
+
+    totalWeeks: 12,
+
+    title: "Build the Engine",
+
+    workout:
+`Run Club
+
+Approximately 10 km
+
+Easy conversational effort
+
+Relax and enjoy the miles`,
+
+    objective:
+"Continue building aerobic consistency while keeping the effort controlled following the weekend's long run.",
+
+    thought:
+"Consistency lays the trail long before the summit comes into view."
+},
+
+{
+    date: "2026-07-28",
+
+    day: "Tuesday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 4,
+
+    totalWeeks: 12,
+
+    title: "Forge the Legs",
+
+    workout:
+`Gym Session A
+
+• Back Squats
+
+• Romanian Deadlifts
+
+• Bulgarian Split Squats
+
+• Standing Calf Raises
+
+• Tibialis Raises
+
+• Pallof Press
+
+Controlled loads and good movement throughout`,
+
+    objective:
+"Develop the strength and resilience needed to support increasing trail mileage and long-term durability.",
+
+    thought:
+"Strong foundations make bigger adventures possible."
+},
+
+{
+    date: "2026-07-29",
+
+    day: "Wednesday",
+
+    type: "run",
+
+    icon: "⛰️",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 4,
+
+    totalWeeks: 12,
+
+    title: "Climb Strong",
+
+    workout:
+`8–10 km Run
+
+Include:
+
+5 × 60 second hill repeats
+
+Strong controlled effort uphill
+
+Easy recovery back down
+
+Keep the remainder of the run conversational`,
+
+    objective:
+"Develop climbing strength and running economy through short, controlled hill efforts without creating excessive fatigue.",
+
+    thought:
+"The hill doesn't get easier. You become better at climbing it."
+},
+
+{
+    date: "2026-07-30",
+
+    day: "Thursday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 4,
+
+    totalWeeks: 12,
+
+    title: "Prepare for the Journey",
+
+    workout:
+`Recovery Day
+
+Rest or easy walk
+
+Gentle mobility
+
+Hydrate well
+
+Prepare running kit and fuelling`,
+
+    objective:
+"Absorb the week's training and arrive at Friday's long run rested and ready for extended easy running.",
+
+    thought:
+"Preparation is part of the expedition."
+},
+
+{
+    date: "2026-07-31",
+
+    day: "Friday",
+
+    type: "long_run",
+
+    icon: "🏔️",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 4,
+
+    totalWeeks: 12,
+
+    title: "Time on Feet",
+
+    workout:
+`22–24 km Long Run
+
+Prefer runnable trail terrain
+
+Easy conversational effort throughout
+
+Practise fuelling and hydration
+
+Walk steep climbs if needed
+
+No pace target
+
+Weather contingency:
+Move to Saturday morning if Friday evening conditions are unsuitable`,
+
+    objective:
+"Consolidate endurance at the current long-run distance while developing efficient pacing, fuelling and confidence over sustained time on feet.",
+
+    thought:
+"Endurance grows quietly, one comfortable mile at a time."
+},
+
+{
+    date: "2026-08-01",
+
+    day: "Saturday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 4,
+
+    totalWeeks: 12,
+
+    title: "Recover & Explore",
+
+    workout:
+`Recovery Day
+
+Complete rest or gentle walking
+
+No structured training required
+
+If Friday's long run was moved due to weather:
+Complete the 22–24 km long run early this morning instead`,
+
+    objective:
+"Prioritise recovery after the week's key endurance session and allow the body to absorb the accumulated training load.",
+
+    thought:
+"Rest is not a detour from the trail. It is part of the route."
+},
+
+{
+    date: "2026-08-02",
+
+    day: "Sunday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 4,
+
+    totalWeeks: 12,
+
+    title: "Build the Frame",
+
+    workout:
+`Gym Session B
+
+Complete only if recovered well from the long run
+
+• Deadlifts
+
+• Walking Lunges
+
+• Single-leg Romanian Deadlifts
+
+• Cable Rows
+
+• Farmer Carries
+
+Keep lower-body loading controlled
+
+If significantly fatigued:
+Replace with rest or an easy walk`,
+
+    objective:
+"Develop full-body strength and resilience without compromising recovery from the week's long endurance session.",
+
+    thought:
+"Strength supports the journey, but recovery keeps it moving."
+},
+
 ];
 
 // =========================================
