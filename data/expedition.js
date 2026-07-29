@@ -864,6 +864,43 @@ Controlled loads and good movement throughout`,
 
     day: "Wednesday",
 
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 4,
+
+    totalWeeks: 12,
+
+    title: "Refuel & Reset",
+
+    workout:
+`Recovery Day
+
+Planned hill session postponed
+
+Rest and recover
+
+Prioritise food and hydration
+
+Optional gentle walk only`,
+
+    objective:
+"Restore hydration and energy after a busy working day rather than forcing a quality session in hot conditions while under-fuelled.",
+
+    thought:
+"Changing the route can be the smartest way to keep moving forward."
+},
+
+{
+    date: "2026-07-30",
+
+    day: "Thursday",
+
     type: "run",
 
     icon: "⛰️",
@@ -879,11 +916,11 @@ Controlled loads and good movement throughout`,
     title: "Climb Strong",
 
     workout:
-`8–10 km Run
+`Approximately 10 km Trail Run
 
 Include:
 
-5 × 60 second hill repeats
+5 × 60 second hill repeats on Blunsdon Hill
 
 Strong controlled effort uphill
 
@@ -892,47 +929,10 @@ Easy recovery back down
 Keep the remainder of the run conversational`,
 
     objective:
-"Develop climbing strength and running economy through short, controlled hill efforts without creating excessive fatigue.",
+"Develop climbing strength and running economy through short, controlled hill efforts while keeping the overall session aerobic.",
 
     thought:
 "The hill doesn't get easier. You become better at climbing it."
-},
-
-{
-    date: "2026-07-30",
-
-    day: "Thursday",
-
-    type: "recovery",
-
-    icon: "🌿",
-
-    block: "Trail Builder",
-
-    phase: "Rebuild & Strength Foundation",
-
-    week: 4,
-
-    totalWeeks: 12,
-
-    title: "Prepare for the Journey",
-
-    workout:
-`Recovery Day
-
-Rest or easy walk
-
-Gentle mobility
-
-Hydrate well
-
-Prepare running kit and fuelling`,
-
-    objective:
-"Absorb the week's training and arrive at Friday's long run rested and ready for extended easy running.",
-
-    thought:
-"Preparation is part of the expedition."
 },
 
 {
@@ -940,9 +940,9 @@ Prepare running kit and fuelling`,
 
     day: "Friday",
 
-    type: "long_run",
+    type: "gym",
 
-    icon: "🏔️",
+    icon: "💪",
 
     block: "Trail Builder",
 
@@ -952,29 +952,31 @@ Prepare running kit and fuelling`,
 
     totalWeeks: 12,
 
-    title: "Time on Feet",
+    title: "Build the Frame",
 
     workout:
-`22–24 km Long Run
+`Gym Session B
 
-Prefer runnable trail terrain
+• Deadlifts
 
-Easy conversational effort throughout
+• Walking Lunges
 
-Practise fuelling and hydration
+• Single-leg Romanian Deadlifts
 
-Walk steep climbs if needed
+• Cable Rows
 
-No pace target
+• Farmer Carries
 
-Weather contingency:
-Move to Saturday morning if Friday evening conditions are unsuitable`,
+Keep lower-body loading controlled
+
+If Thursday's hill session has left significant fatigue:
+Reduce the lower-body work or take a recovery day instead`,
 
     objective:
-"Consolidate endurance at the current long-run distance while developing efficient pacing, fuelling and confidence over sustained time on feet.",
+"Develop full-body strength and resilience while keeping enough in reserve for Sunday's key endurance session.",
 
     thought:
-"Endurance grows quietly, one comfortable mile at a time."
+"Strength supports the journey when it is used with purpose."
 },
 
 {
@@ -994,23 +996,24 @@ Move to Saturday morning if Friday evening conditions are unsuitable`,
 
     totalWeeks: 12,
 
-    title: "Recover & Explore",
+    title: "Prepare for the Journey",
 
     workout:
 `Recovery Day
 
-Complete rest or gentle walking
+Rest or normal gentle walking
 
 No structured training required
 
-If Friday's long run was moved due to weather:
-Complete the 22–24 km long run early this morning instead`,
+Hydrate well
+
+Prepare kit and fuelling for Sunday`,
 
     objective:
-"Prioritise recovery after the week's key endurance session and allow the body to absorb the accumulated training load.",
+"Absorb the week's training and arrive at Sunday's long run recovered, fuelled and ready for extended easy running.",
 
     thought:
-"Rest is not a detour from the trail. It is part of the route."
+"A good expedition begins before the first step."
 },
 
 {
@@ -1018,9 +1021,9 @@ Complete the 22–24 km long run early this morning instead`,
 
     day: "Sunday",
 
-    type: "gym",
+    type: "long_run",
 
-    icon: "💪",
+    icon: "🏔️",
 
     block: "Trail Builder",
 
@@ -1030,33 +1033,30 @@ Complete the 22–24 km long run early this morning instead`,
 
     totalWeeks: 12,
 
-    title: "Build the Frame",
+    title: "Time on Feet",
 
     workout:
-`Gym Session B
+`22–24 km Long Run
 
-Complete only if recovered well from the long run
+Afternoon start
 
-• Deadlifts
+Prefer runnable trail terrain
 
-• Walking Lunges
+Easy conversational effort throughout
 
-• Single-leg Romanian Deadlifts
+Practise fuelling and hydration
 
-• Cable Rows
+Walk steep climbs if needed
 
-• Farmer Carries
+No pace target
 
-Keep lower-body loading controlled
-
-If significantly fatigued:
-Replace with rest or an easy walk`,
+Fuel and hydrate properly throughout the morning before starting`,
 
     objective:
-"Develop full-body strength and resilience without compromising recovery from the week's long endurance session.",
+"Consolidate endurance at the current long-run distance while developing efficient pacing, fuelling and confidence over sustained time on feet.",
 
     thought:
-"Strength supports the journey, but recovery keeps it moving."
+"Endurance grows quietly, one comfortable mile at a time."
 },
 
 ];
