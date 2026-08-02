@@ -1059,6 +1059,275 @@ Fuel and hydrate properly throughout the morning before starting`,
 "Endurance grows quietly, one comfortable mile at a time."
 },
 
+{
+    date: "2026-08-03",
+
+    day: "Monday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 5,
+
+    totalWeeks: 12,
+
+    title: "Recovery Miles",
+
+    workout:
+`Run Club Anniversary
+
+10 km easy recovery run
+
+Stay conversational throughout
+
+Celebrate 2 years of Run Club with the BBQ afterwards`,
+
+    objective:
+"Flush out the legs after yesterday's long run while enjoying the social side of running.",
+
+    thought:
+"Some of the best miles are measured in conversations, not kilometres."
+},
+
+{
+    date: "2026-08-04",
+
+    day: "Tuesday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 5,
+
+    totalWeeks: 12,
+
+    title: "Forge the Legs",
+
+    workout:
+`Gym Session A
+
+• Back Squats
+
+• Romanian Deadlifts
+
+• Bulgarian Split Squats
+
+• Standing Calf Raises
+
+• Tibialis Raises
+
+• Pallof Press
+
+Controlled movement over heavy weight`,
+
+    objective:
+"Continue building resilient legs capable of handling increasing trail volume.",
+
+    thought:
+"Strength built patiently lasts longest."
+},
+
+{
+    date: "2026-08-05",
+
+    day: "Wednesday",
+
+    type: "run",
+
+    icon: "🌲",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 5,
+
+    totalWeeks: 12,
+
+    title: "Easy Exploration",
+
+    workout:
+`8–10 km easy run
+
+Prefer trail if convenient
+
+Completely conversational
+
+No pace target`,
+
+    objective:
+"Maintain aerobic fitness while allowing the body to continue recovering from recent long runs.",
+
+    thought:
+"Not every run needs to prove something."
+},
+
+{
+    date: "2026-08-06",
+
+    day: "Thursday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 5,
+
+    totalWeeks: 12,
+
+    title: "Build the Frame",
+
+    workout:
+`Gym Session B
+
+Reduce lower-body volume slightly
+
+• Deadlifts
+
+• Walking Lunges
+
+• Single-leg Romanian Deadlifts
+
+• Cable Rows
+
+• Farmer Carries
+
+Finish with mobility`,
+
+    objective:
+"Maintain strength while arriving at Sunday's race feeling fresh rather than fatigued.",
+
+    thought:
+"Leave the gym feeling stronger, not exhausted."
+},
+
+{
+    date: "2026-08-07",
+
+    day: "Friday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 5,
+
+    totalWeeks: 12,
+
+    title: "Absorb the Training",
+
+    workout:
+`Recovery Day
+
+Optional easy walk
+
+Mobility
+
+Hydrate well
+
+Early night if possible`,
+
+    objective:
+"Allow the body to absorb the week's work before race weekend.",
+
+    thought:
+"Fitness grows during recovery, not just during training."
+},
+
+{
+    date: "2026-08-08",
+
+    day: "Saturday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 5,
+
+    totalWeeks: 12,
+
+    title: "Wake the Legs",
+
+    workout:
+`3–5 km very easy
+
+Optional:
+
+4 × 20 second relaxed strides
+
+Full recovery between each
+
+Skip the strides if legs feel heavy`,
+
+    objective:
+"Arrive at tomorrow's race feeling loose, fresh and confident.",
+
+    thought:
+"Today's purpose is simply to remind your legs how to run."
+},
+
+{
+    date: "2026-08-09",
+
+    day: "Sunday",
+
+    type: "race",
+
+    icon: "🏁",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 5,
+
+    totalWeeks: 12,
+
+    title: "Newbury Racecourse 10K",
+
+    workout:
+`Newbury Racecourse 10 km
+
+Start controlled
+
+Aim for even pacing
+
+Increase the effort after 7 km if feeling strong
+
+Enjoy the experience
+
+No pressure — let the fitness come naturally`,
+
+    objective:
+"Use today's race as a benchmark of current fitness while practising disciplined pacing.",
+
+    thought:
+"Race the course. Don't race the clock."
+},
+
 ];
 
 // =========================================
