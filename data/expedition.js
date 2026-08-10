@@ -1328,6 +1328,291 @@ No pressure — let the fitness come naturally`,
 "Race the course. Don't race the clock."
 },
 
+{
+    date: "2026-08-10",
+
+    day: "Monday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 6,
+
+    totalWeeks: 12,
+
+    title: "Race Recovery Miles",
+
+    workout:
+`Run Club
+
+5–7 km very easy recovery pace
+
+Keep this genuinely conversational
+
+No pace target
+
+Extend only if genuinely fresh
+
+Shorten further if the legs feel heavy`,
+
+    objective:
+"Promote recovery after Sunday's hard 10K while maintaining the routine and social enjoyment of Run Club.",
+
+    thought:
+"After a hard race, the best miles are the ones that leave you feeling better than when you started."
+},
+
+{
+    date: "2026-08-11",
+
+    day: "Tuesday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 6,
+
+    totalWeeks: 12,
+
+    title: "Forge the Legs",
+
+    workout:
+`Gym Session A
+
+~80% of normal lower-body loading
+
+• Back Squats
+
+• Romanian Deadlifts
+
+• Bulgarian Split Squats
+
+• Standing Calf Raises
+
+• Tibialis Raises
+
+• Pallof Press
+
+Controlled movement throughout
+
+No heavy progression this week`,
+
+    objective:
+"Maintain strength while allowing the legs to recover from Sunday's race effort.",
+
+    thought:
+"Strength supports the journey best when it leaves something in reserve."
+},
+
+{
+    date: "2026-08-12",
+
+    day: "Wednesday",
+
+    type: "run",
+
+    icon: "🌲",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 6,
+
+    totalWeeks: 12,
+
+    title: "Easy Exploration",
+
+    workout:
+`6–8 km easy run
+
+Conversational throughout
+
+No quality work
+
+No pace target
+
+Keep the effort comfortable`,
+
+    objective:
+"Maintain aerobic fitness without adding unnecessary fatigue during a recovery-focused week.",
+
+    thought:
+"Fitness doesn't disappear when you ease off; sometimes that's when it settles in."
+},
+
+{
+    date: "2026-08-13",
+
+    day: "Thursday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 6,
+
+    totalWeeks: 12,
+
+    title: "Build the Frame",
+
+    workout:
+`Gym Session B
+
+Moderate lower-body work
+
+• Deadlifts
+
+• Walking Lunges
+
+• Single-leg Romanian Deadlifts
+
+• Cable Rows
+
+• Farmer Carries
+
+Keep the overall session controlled
+
+Finish with mobility`,
+
+    objective:
+"Maintain whole-body strength without creating fatigue that could compromise Saturday's Tough Mudder.",
+
+    thought:
+"Leave the gym stronger, not exhausted."
+},
+
+{
+    date: "2026-08-14",
+
+    day: "Friday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 6,
+
+    totalWeeks: 12,
+
+    title: "Ready the Legs",
+
+    workout:
+`Complete Rest
+
+Optional gentle walking only
+
+Hydrate well
+
+Prioritise nutrition and sleep
+
+No structured training`,
+
+    objective:
+"Arrive at Tough Mudder recovered and ready after Sunday's hot 10K and the week's lighter training.",
+
+    thought:
+"Fresh legs are built by knowing when to rest."
+},
+
+{
+    date: "2026-08-15",
+
+    day: "Saturday",
+
+    type: "race",
+
+    icon: "🏁",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 6,
+
+    totalWeeks: 12,
+
+    title: "Tough Mudder 15K",
+
+    workout:
+`Tough Mudder 15K
+
+Event effort, not a race
+
+Enjoy the obstacles
+
+Run when appropriate
+
+Walk when useful
+
+Don't chase a finishing time
+
+Fuel and hydrate sensibly
+
+Prioritise having fun and finishing healthy`,
+
+    objective:
+"Use Tough Mudder as an enjoyable strength-endurance and adventure session without allowing it to compromise the wider training block.",
+
+    thought:
+"Not every expedition is about speed; sometimes the adventure is the training."
+},
+
+{
+    date: "2026-08-16",
+
+    day: "Sunday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 6,
+
+    totalWeeks: 12,
+
+    title: "Recover from the Mud",
+
+    workout:
+`Recovery Day
+
+30–60 minute easy walk
+
+OR complete rest if Tough Mudder has left you particularly tired
+
+Gentle mobility if useful
+
+Assess legs, calves and arch`,
+
+    objective:
+"Allow the body to recover fully from Tough Mudder before progressing training again.",
+
+    thought:
+"Recovery is part of the expedition, not time away from it."
+},
+
 ];
 
 // =========================================
