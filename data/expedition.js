@@ -1613,6 +1613,296 @@ Assess legs, calves and arch`,
 "Recovery is part of the expedition, not time away from it."
 },
 
+{
+    date: "2026-08-17",
+
+    day: "Monday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 7,
+
+    totalWeeks: 12,
+
+    title: "Extended Run Club",
+
+    workout:
+`~13 km easy run
+
+First 3 km:
+• Gentle journey to Run Club
+• 6:45–6:55/km
+• Very relaxed
+
+Then 10 km Run Club:
+• Run with the back group
+• ≥6:30/km
+• Conversational throughout
+• Allow the pace to be slower if the group dictates
+
+Do not increase the pace because of the extra distance`,
+
+    objective:
+"Increase easy aerobic volume without adding another training day, while returning to the normal Run Club routine after the lighter previous week.",
+
+    thought:
+"More miles don't need more effort."
+},
+
+{
+    date: "2026-08-18",
+
+    day: "Tuesday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 7,
+
+    totalWeeks: 12,
+
+    title: "Forge the Legs",
+
+    workout:
+`Gym Session A
+
+~90% of usual loading
+
+• Back Squats
+
+• Romanian Deadlifts
+
+• Bulgarian Split Squats
+
+• Standing Calf Raises
+
+• Tibialis Raises
+
+• Pallof Press
+
+Controlled movement
+
+No grinding reps or maximal efforts`,
+
+    objective:
+"Return towards normal strength training while keeping enough recovery capacity for the increasing running volume.",
+
+    thought:
+"Strong enough to train again tomorrow is stronger than strong enough to prove a point today."
+},
+
+{
+    date: "2026-08-19",
+
+    day: "Wednesday",
+
+    type: "run",
+
+    icon: "🌲",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 7,
+
+    totalWeeks: 12,
+
+    title: "Easy Exploration",
+
+    workout:
+`8–10 km easy run
+
+Prefer trail if convenient
+
+No pace target
+
+Completely conversational
+
+Keep the effort genuinely aerobic`,
+
+    objective:
+"Build weekly aerobic volume while allowing the body to absorb Monday's extended easy run and Tuesday's strength session.",
+
+    thought:
+"The miles that feel ordinary are building something extraordinary."
+},
+
+{
+    date: "2026-08-20",
+
+    day: "Thursday",
+
+    type: "run",
+
+    icon: "⛰️",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 7,
+
+    totalWeeks: 12,
+
+    title: "Controlled Hills",
+
+    workout:
+`8–10 km moderate trail session
+
+Include some hills
+
+Keep the effort controlled
+
+No maximal hill repeats
+
+Run the runnable sections comfortably
+
+If legs are not fully recovered, replace with Gym Session B`,
+
+    objective:
+"Reintroduce a moderate trail stimulus while developing strength and efficiency on hills without compromising Saturday's long session.",
+
+    thought:
+"Climb with purpose, not desperation."
+},
+
+{
+    date: "2026-08-21",
+
+    day: "Friday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 7,
+
+    totalWeeks: 12,
+
+    title: "Absorb the Week",
+
+    workout:
+`Recovery Day
+
+Complete rest
+
+Optional easy walking
+
+Gentle mobility if useful
+
+Hydrate and prioritise nutrition
+
+Prepare kit and fuel for Saturday's long session`,
+
+    objective:
+"Allow the week's increasing volume to settle before the next long endurance session.",
+
+    thought:
+"Rest is what turns training into fitness."
+},
+
+{
+    date: "2026-08-22",
+
+    day: "Saturday",
+
+    type: "run",
+
+    icon: "🥾",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 7,
+
+    totalWeeks: 12,
+
+    title: "Long Trail Builder",
+
+    workout:
+`18–22 km easy trail run/hike
+
+Easy conversational effort
+
+Run runnable sections
+
+Purposefully hike steeper hills where appropriate
+
+No pace target
+
+Prioritise time on feet over speed
+
+Use running vest
+
+Practise fuelling and hydration as for a longer expedition
+
+Shorten towards 18 km if fatigue, heat or terrain warrants it`,
+
+    objective:
+"Re-establish the long-session progression and build trail-specific endurance ahead of the September double-header.",
+
+    thought:
+"The long journey is built one comfortable kilometre at a time."
+},
+
+{
+    date: "2026-08-23",
+
+    day: "Sunday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 7,
+
+    totalWeeks: 12,
+
+    title: "Recover & Reset",
+
+    workout:
+`Recovery session
+
+Option A:
+6–8 km very easy recovery run
+
+Option B:
+60–90 minute easy walk
+
+Choose based on Saturday's recovery
+
+No pace target
+
+Complete rest is also acceptable if needed`,
+
+    objective:
+"Promote recovery after the long session while adding gentle aerobic movement only if the body is responding well.",
+
+    thought:
+"Knowing when to move and when to rest is part of endurance."
+},
+
 ];
 
 // =========================================
