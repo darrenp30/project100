@@ -1822,6 +1822,39 @@ Prepare kit and fuel for Saturday's long session`,
 
     day: "Saturday",
 
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 7,
+
+    totalWeeks: 12,
+
+    title: "Recover & Reset",
+
+    workout:
+`Recovery session
+
+
+60–90 minute easy walk
+
+
+    objective:
+"Promote recovery ahead of the long session while adding gentle aerobic movement.",
+
+    thought:
+"Knowing when to move and when to rest is part of endurance."
+},
+
+{
+    date: "2026-08-23",
+
+    day: "Sunday",
+
     type: "run",
 
     icon: "🥾",
@@ -1863,9 +1896,183 @@ Shorten towards 18 km if fatigue, heat or terrain warrants it`,
 },
 
 {
-    date: "2026-08-23",
+    date: "2026-08-24",
 
-    day: "Sunday",
+    day: "Monday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 8,
+
+    totalWeeks: 12,
+
+    title: "Easy Miles",
+
+    workout:
+`Run Club
+
+8–10 km very easy/social
+
+Back group
+
+Conversational throughout
+
+No faster than roughly 6:30/km
+
+Slower is absolutely fine
+
+If legs aren't fresh, stop around 8 km`,
+
+    objective:
+"Recover from Sunday's long trail run while maintaining easy running volume and the social side of Run Club.",
+
+    thought:
+"Consistency doesn't always mean pushing forward."
+},
+
+{
+    date: "2026-08-25",
+
+    day: "Tuesday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 8,
+
+    totalWeeks: 12,
+
+    title: "Build the Engine",
+
+    workout:
+`Gym Session A
+
+• Back Squats — 3 × 8–10
+
+• Romanian Deadlifts — 3 × 8–10
+
+• Bulgarian Split Squats — 3 × 8 each leg
+
+• Standing Calf Raises — 3 × 10
+
+• Tibialis Raises — 3 × 10–15
+
+• Pallof Press — 3 × 10 each side
+
+Keep 1–3 reps in reserve
+
+Controlled movement over maximum weight`,
+
+    objective:
+"Maintain and build lower-body strength without creating excessive fatigue after the long run.",
+
+    thought:
+"Strong enough to go further, fresh enough to do it again."
+},
+
+{
+    date: "2026-08-26",
+
+    day: "Wednesday",
+
+    type: "run",
+
+    icon: "⚡",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 8,
+
+    totalWeeks: 12,
+
+    title: "Controlled Strength",
+
+    workout:
+`8–10 km total
+
+• 2 km easy warm-up
+
+• 4 × 5 min controlled steady effort
+
+• 2 min easy recovery between efforts
+
+• Easy running to finish
+
+RPE 6/10
+
+No HR target
+
+Finish feeling like you could complete another couple of repetitions`,
+
+    objective:
+"Maintain road-running fitness and introduce controlled quality without creating a major fatigue load.",
+
+    thought:
+"Quality doesn't need to become a battle."
+},
+
+{
+    date: "2026-08-27",
+
+    day: "Thursday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 8,
+
+    totalWeeks: 12,
+
+    title: "Build the Frame",
+
+    workout:
+`Gym Session B
+
+• Deadlifts — 3 × 6–8
+
+• Walking Lunges — 3 × 8 each leg
+
+• Single-leg Romanian Deadlifts — 3 × 8 each
+
+• Cable Rows — 3 × 10
+
+• Farmer Carries — 3 × 30–45 sec
+
+• Mobility
+
+Controlled loading
+
+Avoid maximal efforts`,
+
+    objective:
+"Maintain whole-body strength while keeping the legs ready for the weekend's trail volume.",
+
+    thought:
+"Leave the gym stronger, not emptied."
+},
+
+{
+    date: "2026-08-28",
+
+    day: "Friday",
 
     type: "recovery",
 
@@ -1875,32 +2082,114 @@ Shorten towards 18 km if fatigue, heat or terrain warrants it`,
 
     phase: "Rebuild & Strength Foundation",
 
-    week: 7,
+    week: 8,
 
     totalWeeks: 12,
 
-    title: "Recover & Reset",
+    title: "Absorb the Training",
 
     workout:
-`Recovery session
+`Complete Rest
 
-Option A:
-6–8 km very easy recovery run
+Normal daily movement is fine
 
-Option B:
-60–90 minute easy walk
+Optional gentle mobility
 
-Choose based on Saturday's recovery
+Hydrate well
+
+Eat well
+
+No planned training`,
+
+    objective:
+"Allow the week's training to be absorbed before the weekend's trail volume.",
+
+    thought:
+"Rest is part of the training plan."
+},
+
+{
+    date: "2026-08-29",
+
+    day: "Saturday",
+
+    type: "run",
+
+    icon: "🌲",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 8,
+
+    totalWeeks: 12,
+
+    title: "Easy Trail Miles",
+
+    workout:
+`8–10 km easy trail run
+
+Conversational effort
+
+Let the terrain dictate pace
 
 No pace target
 
-Complete rest is also acceptable if needed`,
+No hill workout
+
+Reduce to 8 km if tired`,
 
     objective:
-"Promote recovery after the long session while adding gentle aerobic movement only if the body is responding well.",
+"Build trail-specific running volume while keeping enough freshness for Sunday's long run.",
 
     thought:
-"Knowing when to move and when to rest is part of endurance."
+"Today's miles support tomorrow's."
+},
+
+{
+    date: "2026-08-30",
+
+    day: "Sunday",
+
+    type: "run",
+
+    icon: "🏔️",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 8,
+
+    totalWeeks: 12,
+
+    title: "Long Trail Builder",
+
+    workout:
+`24–26 km trail long run
+
+Target 24 km
+
+Extend towards 25–26 km only if feeling genuinely good
+
+First 5 km: very comfortable
+
+5–18 km: settle into sustainable trail effort
+
+18–24 km: maintain rather than accelerate
+
+Beyond 24 km: continue only if feeling strong
+
+Fuel and hydrate properly
+
+No pace target — run by effort`,
+
+    objective:
+"Progress long-run endurance towards the September double-header while practising sustainable effort, fuelling and time on feet.",
+
+    thought:
+"The goal isn't to finish fast. It's to finish knowing you could have gone further."
 },
 
 ];
