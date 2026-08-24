@@ -1915,7 +1915,7 @@ Shorten towards 18 km if fatigue, heat or terrain warrants it',
     title: "Easy Miles",
 
     workout:
-`Run Club
+'Run Club
 
 8–10 km very easy/social
 
@@ -1927,7 +1927,7 @@ No faster than roughly 6:30/km
 
 Slower is absolutely fine
 
-If legs aren't fresh, stop around 8 km`,
+If legs aren't fresh, stop around 8 km',
 
     objective:
 "Recover from Sunday's long trail run while maintaining easy running volume and the social side of Run Club.",
@@ -1956,7 +1956,7 @@ If legs aren't fresh, stop around 8 km`,
     title: "Build the Engine",
 
     workout:
-`Gym Session A
+'Gym Session A
 
 • Back Squats — 3 × 8–10
 
@@ -1972,7 +1972,7 @@ If legs aren't fresh, stop around 8 km`,
 
 Keep 1–3 reps in reserve
 
-Controlled movement over maximum weight`,
+Controlled movement over maximum weight',
 
     objective:
 "Maintain and build lower-body strength without creating excessive fatigue after the long run.",
@@ -2001,7 +2001,7 @@ Controlled movement over maximum weight`,
     title: "Controlled Strength",
 
     workout:
-`8–10 km total
+'8–10 km total
 
 • 2 km easy warm-up
 
@@ -2015,7 +2015,7 @@ RPE 6/10
 
 No HR target
 
-Finish feeling like you could complete another couple of repetitions`,
+Finish feeling like you could complete another couple of repetitions',
 
     objective:
 "Maintain road-running fitness and introduce controlled quality without creating a major fatigue load.",
@@ -2044,7 +2044,7 @@ Finish feeling like you could complete another couple of repetitions`,
     title: "Build the Frame",
 
     workout:
-`Gym Session B
+'Gym Session B
 
 • Deadlifts — 3 × 6–8
 
@@ -2060,7 +2060,7 @@ Finish feeling like you could complete another couple of repetitions`,
 
 Controlled loading
 
-Avoid maximal efforts`,
+Avoid maximal efforts',
 
     objective:
 "Maintain whole-body strength while keeping the legs ready for the weekend's trail volume.",
@@ -2089,7 +2089,7 @@ Avoid maximal efforts`,
     title: "Absorb the Training",
 
     workout:
-`Complete Rest
+'Complete Rest
 
 Normal daily movement is fine
 
@@ -2099,7 +2099,7 @@ Hydrate well
 
 Eat well
 
-No planned training`,
+No planned training',
 
     objective:
 "Allow the week's training to be absorbed before the weekend's trail volume.",
@@ -2128,7 +2128,7 @@ No planned training`,
     title: "Easy Trail Miles",
 
     workout:
-`8–10 km easy trail run
+'8–10 km easy trail run
 
 Conversational effort
 
@@ -2138,7 +2138,7 @@ No pace target
 
 No hill workout
 
-Reduce to 8 km if tired`,
+Reduce to 8 km if tired',
 
     objective:
 "Build trail-specific running volume while keeping enough freshness for Sunday's long run.",
@@ -2167,7 +2167,7 @@ Reduce to 8 km if tired`,
     title: "Long Trail Builder",
 
     workout:
-`24–26 km trail long run
+'24–26 km trail long run
 
 Target 24 km
 
@@ -2183,7 +2183,7 @@ Beyond 24 km: continue only if feeling strong
 
 Fuel and hydrate properly
 
-No pace target — run by effort`,
+No pace target — run by effort',
 
     objective:
 "Progress long-run endurance towards the September double-header while practising sustainable effort, fuelling and time on feet.",
