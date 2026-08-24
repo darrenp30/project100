@@ -1839,7 +1839,7 @@ Prepare kit and fuel for Saturday's long session`,
     workout:
 'Recovery session
 
-60–90 minute easy walk'
+60–90 minute easy walk',
 
 
     objective:
