@@ -1870,7 +1870,7 @@ Prepare kit and fuel for Saturday's long session`,
     title: "Long Trail Builder",
 
     workout:
-`18–22 km easy trail run/hike
+'18–22 km easy trail run/hike
 
 Easy conversational effort
 
@@ -1886,7 +1886,7 @@ Use running vest
 
 Practise fuelling and hydration as for a longer expedition
 
-Shorten towards 18 km if fatigue, heat or terrain warrants it`,
+Shorten towards 18 km if fatigue, heat or terrain warrants it',
 
     objective:
 "Re-establish the long-session progression and build trail-specific endurance ahead of the September double-header.",
