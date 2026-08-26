@@ -1984,50 +1984,7 @@ Controlled movement over maximum weight`,
     date: "2026-08-26",
 
     day: "Wednesday",
-
-    type: "run",
-
-    icon: "⚡",
-
-    block: "Trail Builder",
-
-    phase: "Rebuild & Strength Foundation",
-
-    week: 8,
-
-    totalWeeks: 12,
-
-    title: "Controlled Strength",
-
-    workout:
-`8–10 km total
-
-• 2 km easy warm-up
-
-• 4 × 5 min controlled steady effort
-
-• 2 min easy recovery between efforts
-
-• Easy running to finish
-
-RPE 6/10
-
-No HR target
-
-Finish feeling like you could complete another couple of repetitions`,
-
-    objective:
-"Maintain road-running fitness and introduce controlled quality without creating a major fatigue load.",
-
-    thought:
-"Quality doesn't need to become a battle."
-},
-
-{
-    date: "2026-08-27",
-
-    day: "Thursday",
-
+    
     type: "gym",
 
     icon: "💪",
@@ -2066,6 +2023,49 @@ Avoid maximal efforts`,
 
     thought:
 "Leave the gym stronger, not emptied."
+},
+
+{
+    date: "2026-08-27",
+
+    day: "Thursday",
+    
+    type: "run",
+
+    icon: "⚡",
+
+    block: "Trail Builder",
+
+    phase: "Rebuild & Strength Foundation",
+
+    week: 8,
+
+    totalWeeks: 12,
+
+    title: "Controlled Strength",
+
+    workout:
+`8–10 km total
+
+• 2 km easy warm-up
+
+• 4 × 5 min controlled steady effort
+
+• 2 min easy recovery between efforts
+
+• Easy running to finish
+
+RPE 6/10
+
+No HR target
+
+Finish feeling like you could complete another couple of repetitions`,
+
+    objective:
+"Maintain road-running fitness and introduce controlled quality without creating a major fatigue load.",
+
+    thought:
+"Quality doesn't need to become a battle."
 },
 
 {
