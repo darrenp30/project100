@@ -2191,6 +2191,319 @@ No pace target — run by effort`,
 "The goal isn't to finish fast. It's to finish knowing you could have gone further."
 },
 
+{
+    date: "2026-08-31",
+
+    day: "Monday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 9,
+
+    totalWeeks: 12,
+
+    title: "Active Recovery Miles",
+
+    workout:
+`Run Group
+
+8–10 km very easy/social
+
+Back group
+
+Conversational throughout
+
+No faster than roughly 6:30/km
+
+Slower is completely fine
+
+Do not chase surges or faster runners
+
+If legs feel heavy, stop around 8 km
+
+The goal is to finish feeling better than when you started`,
+
+    objective:
+"Promote recovery from Sunday's 24 km long run while maintaining easy running volume and the social side of Run Group.",
+
+    thought:
+"Sometimes the best recovery is simply moving gently."
+},
+
+{
+    date: "2026-09-01",
+
+    day: "Tuesday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 9,
+
+    totalWeeks: 12,
+
+    title: "Build the Engine",
+
+    workout:
+`Gym Session A
+
+• Back Squats — 3 × 8–10
+
+• Romanian Deadlifts — 3 × 8–10
+
+• Bulgarian Split Squats — 3 × 8 each leg
+
+• Standing Calf Raises — 3 × 10
+
+• Tibialis Raises — 3 × 10–15
+
+• Pallof Press — 3 × 10 each side
+
+Keep 1–3 reps in reserve
+
+Moderate loading
+
+Controlled movement over maximum weight
+
+Do not chase progression this week`,
+
+    objective:
+"Maintain lower-body strength during peak endurance week without creating unnecessary fatigue before Sunday's long run.",
+
+    thought:
+"Strength supports the miles, but freshness carries them."
+},
+
+{
+    date: "2026-09-02",
+
+    day: "Wednesday",
+
+    type: "run",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 9,
+
+    totalWeeks: 12,
+
+    title: "Easy Miles",
+
+    workout:
+`8–10 km easy
+
+Conversational effort
+
+No quality work
+
+No pace target
+
+Keep effort genuinely comfortable
+
+If Monday or Tuesday has left residual fatigue, reduce towards 8 km`,
+
+    objective:
+"Maintain running volume while allowing the body to absorb the weekend's long run and prepare for the peak session on Sunday.",
+
+    thought:
+"Not every kilometre needs to build fitness. Some simply preserve it."
+},
+
+{
+    date: "2026-09-03",
+
+    day: "Thursday",
+
+    type: "gym",
+
+    icon: "💪",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 9,
+
+    totalWeeks: 12,
+
+    title: "Build the Frame",
+
+    workout:
+`Gym Session B
+
+• Deadlifts — 3 × 6–8
+
+• Walking Lunges — 3 × 8 each leg
+
+• Single-leg Romanian Deadlifts — 3 × 8 each
+
+• Cable Rows — 3 × 10
+
+• Farmer Carries — 3 × 30–45 sec
+
+• Mobility
+
+Moderate/light loading
+
+Keep 2–3 reps in reserve
+
+Avoid maximal efforts
+
+Prioritise freshness for Sunday's long run`,
+
+    objective:
+"Maintain whole-body strength while minimising lower-body fatigue ahead of the week's peak endurance session.",
+
+    thought:
+"Leave the gym stronger, not emptied."
+},
+
+{
+    date: "2026-09-04",
+
+    day: "Friday",
+
+    type: "recovery",
+
+    icon: "🌿",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 9,
+
+    totalWeeks: 12,
+
+    title: "Absorb the Training",
+
+    workout:
+`Complete Rest
+
+Normal daily movement is fine
+
+Optional gentle mobility
+
+Hydrate well
+
+Eat well
+
+No planned training`,
+
+    objective:
+"Maximise freshness and allow the week's training to be absorbed before the peak long run.",
+
+    thought:
+"Rest is part of the peak, not a break from it."
+},
+
+{
+    date: "2026-09-05",
+
+    day: "Saturday",
+
+    type: "run",
+
+    icon: "🌲",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 9,
+
+    totalWeeks: 12,
+
+    title: "Shakeout Trail Miles",
+
+    workout:
+`6–8 km very easy trail run
+
+Conversational effort
+
+No pace target
+
+Let the terrain dictate pace
+
+No hills or quality work
+
+Keep this deliberately easy
+
+Reduce towards 6 km if anything feels tired or sore`,
+
+    objective:
+"Keep the legs moving and maintain trail familiarity without adding meaningful fatigue before Sunday's peak long run.",
+
+    thought:
+"Save the effort for when it matters."
+},
+
+{
+    date: "2026-09-06",
+
+    day: "Sunday",
+
+    type: "run",
+
+    icon: "🏔️",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 9,
+
+    totalWeeks: 12,
+
+    title: "Peak Trail Long Run",
+
+    workout:
+`28–30 km trail long run
+
+Target 28 km
+
+Extend towards 30 km only if feeling genuinely strong
+
+First 5 km: very comfortable
+
+5–20 km: settle into sustainable trail effort
+
+20–28 km: maintain rather than accelerate
+
+Beyond 28 km: continue only if feeling excellent
+
+No pace target — run by effort
+
+Use running vest
+
+Practise fuelling and hydration as for the marathon
+
+Prioritise sustainable time on feet over speed
+
+Stop at 28 km if fatigue is accumulating`,
+
+    objective:
+"Deliver the peak long-run stimulus before beginning the three-week taper towards the September double-header.",
+
+    thought:
+"The peak isn't about proving you can suffer. It's about proving you can keep going."
+},
+
 ];
 
 // =========================================
