@@ -2241,9 +2241,9 @@ The goal is to finish feeling better than when you started`,
 
     day: "Tuesday",
 
-    type: "gym",
+    type: "football",
 
-    icon: "💪",
+    icon: "⚽️"
 
     block: "Trail Builder",
 
@@ -2256,30 +2256,10 @@ The goal is to finish feeling better than when you started`,
     title: "Build the Engine",
 
     workout:
-`Gym Session A
-
-• Back Squats — 3 × 8–10
-
-• Romanian Deadlifts — 3 × 8–10
-
-• Bulgarian Split Squats — 3 × 8 each leg
-
-• Standing Calf Raises — 3 × 10
-
-• Tibialis Raises — 3 × 10–15
-
-• Pallof Press — 3 × 10 each side
-
-Keep 1–3 reps in reserve
-
-Moderate loading
-
-Controlled movement over maximum weight
-
-Do not chase progression this week`,
+"Sociable football",
 
     objective:
-"Maintain lower-body strength during peak endurance week without creating unnecessary fatigue before Sunday's long run.",
+"Keep strictly sociable.",
 
     thought:
 "Strength supports the miles, but freshness carries them."
@@ -2289,10 +2269,10 @@ Do not chase progression this week`,
     date: "2026-09-02",
 
     day: "Wednesday",
+    
+    type: "rest",
 
-    type: "run",
-
-    icon: "🌿",
+    icon: "😴",
 
     block: "Trail Builder",
 
@@ -2302,26 +2282,19 @@ Do not chase progression this week`,
 
     totalWeeks: 12,
 
-    title: "Easy Miles",
+    title: "Rest Day",
 
     workout:
-`8–10 km easy
+`Complete rest from structured training.
 
-Conversational effort
-
-No quality work
-
-No pace target
-
-Keep effort genuinely comfortable
-
-If Monday or Tuesday has left residual fatigue, reduce towards 8 km`,
+Easy walking and light mobility are fine if they feel good.`,
 
     objective:
-"Maintain running volume while allowing the body to absorb the weekend's long run and prepare for the peak session on Sunday.",
+"Absorb the week's training and arrive at Saturday and Monday feeling fresh.",
 
     thought:
-"Not every kilometre needs to build fitness. Some simply preserve it."
+"Nothing to make up. Rest is part of the plan."
+
 },
 
 {
@@ -2331,7 +2304,7 @@ If Monday or Tuesday has left residual fatigue, reduce towards 8 km`,
 
     type: "gym",
 
-    icon: "💪",
+    icon: "🏋️",
 
     block: "Trail Builder",
 
@@ -2341,36 +2314,26 @@ If Monday or Tuesday has left residual fatigue, reduce towards 8 km`,
 
     totalWeeks: 12,
 
-    title: "Build the Frame",
+    title: "Light Strength",
 
     workout:
-`Gym Session B
+`Keep this session deliberately light/moderate after Tuesday's football.
 
-• Deadlifts — 3 × 6–8
+Deadlifts: 2 × 6–8
+Walking lunges: 2 × 8 each leg
+Single-leg RDL: 2 × 8 each leg
+Cable rows: 2–3 × 10
+Farmer carries: 2 × 30–45 sec
+Mobility: 5–10 min
 
-• Walking Lunges — 3 × 8 each leg
-
-• Single-leg Romanian Deadlifts — 3 × 8 each
-
-• Cable Rows — 3 × 10
-
-• Farmer Carries — 3 × 30–45 sec
-
-• Mobility
-
-Moderate/light loading
-
-Keep 2–3 reps in reserve
-
-Avoid maximal efforts
-
-Prioritise freshness for Sunday's long run`,
+RPE 5–6/10.
+Leave plenty in reserve. No grinding reps and nothing that should cause soreness.`,
 
     objective:
-"Maintain whole-body strength while minimising lower-body fatigue ahead of the week's peak endurance session.",
+"Maintain strength and movement quality without creating fatigue ahead of Monday's peak long run.",
 
     thought:
-"Leave the gym stronger, not emptied."
+"Today is maintenance, not a test. The big session is Monday."
 },
 
 {
@@ -2378,9 +2341,9 @@ Prioritise freshness for Sunday's long run`,
 
     day: "Friday",
 
-    type: "recovery",
+    type: "rest",
 
-    icon: "🌿",
+    icon: "😴",
 
     block: "Trail Builder",
 
@@ -2390,26 +2353,18 @@ Prioritise freshness for Sunday's long run`,
 
     totalWeeks: 12,
 
-    title: "Absorb the Training",
+    title: "Rest Day",
 
     workout:
-`Complete Rest
+`Complete rest from structured training.
 
-Normal daily movement is fine
-
-Optional gentle mobility
-
-Hydrate well
-
-Eat well
-
-No planned training`,
+Easy walking and light mobility are fine if they feel good.`,
 
     objective:
-"Maximise freshness and allow the week's training to be absorbed before the peak long run.",
+"Absorb the week's training and arrive at Saturday and Monday feeling fresh.",
 
     thought:
-"Rest is part of the peak, not a break from it."
+"Nothing to make up. Rest is part of the plan."
 },
 
 {
@@ -2419,7 +2374,7 @@ No planned training`,
 
     type: "run",
 
-    icon: "🌲",
+    icon: "🏃",
 
     block: "Trail Builder",
 
@@ -2429,28 +2384,24 @@ No planned training`,
 
     totalWeeks: 12,
 
-    title: "Shakeout Trail Miles",
+    title: "Parkrun With Lois",
 
     workout:
-`6–8 km very easy trail run
+`Run the 5 km parkrun with Lois while she walks.
 
-Conversational effort
+Keep the running very easy and social — this is NOT a parkrun race.
 
-No pace target
+After catching back up with Lois, run/walk as needed to reach roughly 6–7 km of total running.
 
-Let the terrain dictate pace
+Then walk the final 1–2 km back to the finish with Lois.
 
-No hills or quality work
-
-Keep this deliberately easy
-
-Reduce towards 6 km if anything feels tired or sore`,
+RPE 3–4/10 throughout.`,
 
     objective:
-"Keep the legs moving and maintain trail familiarity without adding meaningful fatigue before Sunday's peak long run.",
+"Keep the legs moving without accumulating fatigue before Monday's peak long run.",
 
     thought:
-"Save the effort for when it matters."
+"Your only race today is against the temptation to race parkrun."
 },
 
 {
@@ -2458,9 +2409,9 @@ Reduce towards 6 km if anything feels tired or sore`,
 
     day: "Sunday",
 
-    type: "run",
+    type: "rest",
 
-    icon: "🏔️",
+    icon: "🎸",
 
     block: "Trail Builder",
 
@@ -2470,38 +2421,866 @@ Reduce towards 6 km if anything feels tired or sore`,
 
     totalWeeks: 12,
 
-    title: "Peak Trail Long Run",
+    title: "Gig Day",
 
     workout:
-`28–30 km trail long run
+`No structured training.
 
-Target 28 km
+Enjoy the gig and treat the prolonged standing as additional activity rather than recovery.
 
-Extend towards 30 km only if feeling genuinely strong
-
-First 5 km: very comfortable
-
-5–20 km: settle into sustainable trail effort
-
-20–28 km: maintain rather than accelerate
-
-Beyond 28 km: continue only if feeling excellent
-
-No pace target — run by effort
-
-Use running vest
-
-Practise fuelling and hydration as for the marathon
-
-Prioritise sustainable time on feet over speed
-
-Stop at 28 km if fatigue is accumulating`,
+Prioritise fluids, food and a good night's sleep, ready for tomorrow's long run.`,
 
     objective:
-"Deliver the peak long-run stimulus before beginning the three-week taper towards the September double-header.",
+"Stay rested and well-fuelled ahead of Monday's peak endurance session.",
 
     thought:
-"The peak isn't about proving you can suffer. It's about proving you can keep going."
+"Tonight you're a gig-goer, not an athlete. Tomorrow we get serious."
+},
+
+{
+    date: "2026-09-07",
+
+    day: "Monday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 10,
+
+    totalWeeks: 12,
+
+    title: "Peak Long Run",
+
+    workout:
+`28–30 km easy trail long run.
+
+First 5 km: deliberately very comfortable.
+5–20 km: settle into a relaxed, conversational endurance effort.
+20–28 km: maintain the same controlled effort; walk steeper climbs where appropriate.
+
+Target: 28 km.
+Extend to 29–30 km only if you genuinely feel strong at 28 km.
+
+Keep the effort easy rather than chasing pace.
+Practise race-day fuelling and hydration throughout, taking fuel regularly from the start.
+
+Stop at 28 km if your legs are becoming noticeably fatigued, your gait changes, or the effort is no longer comfortably controlled.`,
+
+    objective:
+"Complete the final major endurance stimulus before the taper, building confidence in sustained trail running and race-day fuelling without excessive fatigue.",
+
+    thought:
+"28 km proves the point. 30 km is a bonus. The goal is to finish feeling like you could have done a little more."
+},
+
+{
+    date: "2026-09-08",
+
+    day: "Tuesday",
+
+    type: "rest",
+
+    icon: "😴",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 10,
+
+    totalWeeks: 12,
+
+    title: "Recovery Day",
+
+    workout:
+`No structured training.
+
+Easy walking is fine if it feels good.
+Light mobility only if useful.
+
+No Gym A after Monday's peak long run.`,
+
+    objective:
+"Allow the body to absorb the peak long run rather than adding unnecessary training load.",
+
+    thought:
+"Today's workout is recovering from yesterday."
+},
+
+{
+    date: "2026-09-09",
+
+    day: "Wednesday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 10,
+
+    totalWeeks: 12,
+
+    title: "Easy Recovery Miles",
+
+    workout:
+`7–9 km very easy.
+
+Conversational effort throughout.
+RPE 3–4/10.
+
+No pace target and no progression.
+If the legs still feel heavy after Monday, reduce the distance or stop early.`,
+
+    objective:
+"Restore normal running rhythm after the peak long run without adding meaningful fatigue.",
+
+    thought:
+"Easy means easy. The fitness is already in the bank."
+},
+
+{
+    date: "2026-09-10",
+
+    day: "Thursday",
+
+    type: "gym",
+
+    icon: "🏋️",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 10,
+
+    totalWeeks: 12,
+
+    title: "Light Strength Maintenance",
+
+    workout:
+`Keep this session light/moderate.
+
+Deadlifts: 2 × 6–8
+Walking lunges: 2 × 8 each leg
+Single-leg RDL: 2 × 8 each leg
+Cable rows: 2–3 × 10
+Farmer carries: 2 × 30–45 sec
+Mobility: 5–10 min
+
+RPE 5–6/10.
+Leave plenty in reserve.
+No grinding reps and no deliberate muscle soreness.`,
+
+    objective:
+"Maintain strength and movement quality while continuing to reduce overall training load.",
+
+    thought:
+"Maintenance, not progress. We are starting to cash in the fitness we've built."
+},
+
+{
+    date: "2026-09-11",
+
+    day: "Friday",
+
+    type: "rest",
+
+    icon: "😴",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 10,
+
+    totalWeeks: 12,
+
+    title: "Rest Day",
+
+    workout:
+`Complete rest from structured training.
+
+Easy walking and light mobility are fine.`,
+
+    objective:
+"Recover before the final long easy run of the build.",
+
+    thought:
+"Fresh legs are now more valuable than extra miles."
+},
+
+{
+    date: "2026-09-12",
+
+    day: "Saturday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 10,
+
+    totalWeeks: 12,
+
+    title: "Easy Trail Run",
+
+    workout:
+`5–7 km very easy trail running.
+
+RPE 3–4/10.
+Conversational throughout.
+No pace target and no hard hills.
+
+Finish feeling fresher than when you started.`,
+
+    objective:
+"Maintain running frequency while continuing the transition from peak training towards taper.",
+
+    thought:
+"You're not building fitness today. You're keeping the engine ticking over."
+},
+
+{
+    date: "2026-09-13",
+
+    day: "Sunday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Taper",
+
+    week: 10,
+
+    totalWeeks: 12,
+
+    title: "Final Long Easy Run",
+
+    workout:
+`20–22 km easy trail run.
+
+Keep the entire run conversational.
+Walk steeper climbs freely.
+No pace targets and no hard efforts.
+
+Practise normal race-day fuelling and hydration, but do not turn this into another peak session.
+
+20 km is sufficient.
+Extend towards 22 km only if the legs feel good and Monday's peak run has been absorbed well.`,
+
+    objective:
+"Complete the final substantial endurance run before tapering volume further.",
+
+    thought:
+"This is the last long one. From here, we're protecting the fitness rather than chasing more."
+},
+
+{
+    date: "2026-09-14",
+
+    day: "Monday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Taper",
+
+    week: 11,
+
+    totalWeeks: 12,
+
+    title: "Easy Run Club",
+
+    workout:
+`8–10 km with the Run Club back group.
+
+Keep this genuinely easy and conversational.
+Aim for roughly 6:30/km or slower, depending on the group.
+
+No racing, no surges and no chasing anyone who runs ahead.
+
+If the legs feel tired after Sunday's long run, cut this to 6–8 km or stop early.`,
+
+    objective:
+"Maintain running frequency while allowing fatigue to continue falling.",
+
+    thought:
+"You're here to socialise and loosen the legs, not win Run Club."
+},
+
+{
+    date: "2026-09-15",
+
+    day: "Tuesday",
+
+    type: "gym",
+
+    icon: "🏋️",
+
+    block: "Trail Builder",
+
+    phase: "Taper",
+
+    week: 11,
+
+    totalWeeks: 12,
+
+    title: "Light Strength Maintenance",
+
+    workout:
+`Short, light maintenance session.
+
+Back squats: 2 × 6–8
+RDL: 2 × 6–8
+Split squats: 2 × 6 each leg
+Standing calf raises: 2 × 10
+Tibialis: 2 × 10–15
+Pallof press: 2 × 10 each side
+
+RPE 4–5/10.
+Stop well before fatigue.
+No failure, no heavy lifting and no DOMS.`,
+
+    objective:
+"Maintain movement and strength without compromising recovery.",
+
+    thought:
+"Less is more now. We are deliberately doing less."
+},
+
+{
+    date: "2026-09-16",
+
+    day: "Wednesday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Taper",
+
+    week: 11,
+
+    totalWeeks: 12,
+
+    title: "Easy Miles",
+
+    workout:
+`7–9 km easy.
+
+RPE 3–4/10.
+Conversational throughout.
+No pace target and no workout structure.
+
+If anything feels niggly or unusually fatigued, reduce the distance or take the day off.`,
+
+    objective:
+"Keep the legs accustomed to running while continuing to reduce fatigue.",
+
+    thought:
+"Nothing to prove. You've already done the work."
+},
+
+{
+    date: "2026-09-17",
+
+    day: "Thursday",
+
+    type: "gym",
+
+    icon: "🏋️",
+
+    block: "Trail Builder",
+
+    phase: "Taper",
+
+    week: 11,
+
+    totalWeeks: 12,
+
+    title: "Final Strength Session",
+
+    workout:
+`Final gym session before race weekend.
+
+Keep everything light and controlled.
+
+Deadlifts: 2 × 5–6
+Walking lunges: 2 × 6 each leg
+Single-leg RDL: 2 × 6 each leg
+Cable rows: 2 × 10
+Farmer carries: 2 × 30 sec
+Light mobility
+
+RPE 4–5/10 maximum.
+
+No heavy lifting, no failure and no exercises taken close to fatigue.`,
+
+    objective:
+"Finish strength training early enough to allow complete muscular recovery before race weekend.",
+
+    thought:
+"This is the last call for strength. After today, we protect the legs."
+},
+
+{
+    date: "2026-09-18",
+
+    day: "Friday",
+
+    type: "rest",
+
+    icon: "😴",
+
+    block: "Trail Builder",
+
+    phase: "Taper",
+
+    week: 11,
+
+    totalWeeks: 12,
+
+    title: "Rest Day",
+
+    workout:
+`Complete rest from structured training.
+
+Easy walking and gentle mobility are fine.`,
+
+    objective:
+"Continue reducing accumulated fatigue before race weekend.",
+
+    thought:
+"Fitness is built. Fatigue is what we're removing now."
+},
+
+{
+    date: "2026-09-19",
+
+    day: "Saturday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Taper",
+
+    week: 11,
+
+    totalWeeks: 12,
+
+    title: "Easy Trail Shakeout",
+
+    workout:
+`6–8 km easy trail running.
+
+RPE 3–4/10.
+Keep the effort relaxed and conversational.
+
+No hard climbs, no intervals and no progression.
+Reduce the distance if the legs feel anything less than good.`,
+
+    objective:
+"Maintain running rhythm while allowing fatigue to continue falling.",
+
+    thought:
+"Short, easy and forgettable. That's exactly what we want."
+},
+
+{
+    date: "2026-09-20",
+
+    day: "Sunday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Taper",
+
+    week: 11,
+
+    totalWeeks: 12,
+
+    title: "Easy Final Miles",
+
+    workout:
+`5–10 km easy.
+
+RPE 3–4/10.
+No pace target.
+No hard efforts.
+
+8–10 km is fine if the previous week has gone smoothly.
+Keep it closer to 5–6 km if there is any lingering fatigue.
+
+If taking part in the school fundraiser 10K, treat it entirely as an easy training run — do not race it.`,
+
+    objective:
+"Finish the final training week with confidence while keeping fatigue low.",
+
+    thought:
+"Feeling good is not a reason to add miles. It's proof the taper is working."
+},
+
+{
+    date: "2026-09-21",
+
+    day: "Monday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Race Taper",
+
+    week: 12,
+
+    totalWeeks: 12,
+
+    title: "Final Easy Run Club",
+
+    workout:
+`6–8 km very easy with the Run Club back group.
+
+Conversational effort throughout.
+RPE 3/10.
+
+No racing, no surges and no chasing pace.
+If the legs feel anything less than fresh, reduce to 5–6 km or take the day off.`,
+
+    objective:
+"Keep the legs moving during race week without adding meaningful fatigue.",
+
+    thought:
+"At this point, every unnecessary hard kilometre is a bad trade."
+},
+
+{
+    date: "2026-09-22",
+
+    day: "Tuesday",
+
+    type: "rest",
+
+    icon: "😴",
+
+    block: "Trail Builder",
+
+    phase: "Race Taper",
+
+    week: 12,
+
+    totalWeeks: 12,
+
+    title: "Full Rest",
+
+    workout:
+`Complete rest from structured training.
+
+No gym.
+Easy walking only if desired.
+Light mobility is fine.`,
+
+    objective:
+"Maximise recovery and allow the final training fatigue to dissipate.",
+
+    thought:
+"Do less. Arrive fresher."
+},
+
+{
+    date: "2026-09-23",
+
+    day: "Wednesday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Race Taper",
+
+    week: 12,
+
+    totalWeeks: 12,
+
+    title: "Easy Shakeout",
+
+    workout:
+`5–6 km very easy.
+
+RPE 3/10.
+Conversational throughout.
+
+No workout, no pace target and no hills for the sake of hills.
+Stop while feeling fresh.`,
+
+    objective:
+"Keep the legs familiar with running while preserving maximum freshness.",
+
+    thought:
+"You're not training for the marathon anymore. You're preparing to run it."
+},
+
+{
+    date: "2026-09-24",
+
+    day: "Thursday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Trail Builder",
+
+    phase: "Race Taper",
+
+    week: 12,
+
+    totalWeeks: 12,
+
+    title: "Final Shakeout",
+
+    workout:
+`4–5 km very easy.
+
+RPE 2–3/10.
+Relaxed, comfortable running only.
+
+Finish feeling completely fresh.
+If the legs feel heavy or anything feels niggly, replace with an easy walk or rest.`,
+
+    objective:
+"Provide a final gentle movement stimulus without creating any meaningful fatigue.",
+
+    thought:
+"This should feel almost pointless. That's the point."
+},
+
+{
+    date: "2026-09-25",
+
+    day: "Friday",
+
+    type: "rest",
+
+    icon: "😴",
+
+    block: "Trail Builder",
+
+    phase: "Race Taper",
+
+    week: 12,
+
+    totalWeeks: 12,
+
+    title: "Race Eve Rest",
+
+    workout:
+`Complete rest from training.
+
+Keep walking to a minimum.
+Prioritise food, fluids, kit preparation and sleep.
+
+No last-minute training because you feel fresh.`,
+
+    objective:
+"Arrive at the start line rested, fuelled and mentally ready.",
+
+    thought:
+"The work is done. Tomorrow you collect the reward."
+},
+
+{
+    date: "2026-09-26",
+
+    day: "Saturday",
+
+    type: "race",
+
+    icon: "🏅",
+
+    block: "Bristol to Bath",
+
+    phase: "Race",
+
+    week: 12,
+
+    totalWeeks: 12,
+
+    title: "Bristol–Bath Trail Marathon",
+
+    workout:
+`~42 km trail marathon.
+
+Start: 08:30.
+
+Run the opening section conservatively and keep the effort controlled.
+Expect to walk steeper climbs, particularly during the major climb around the 30–36 km section.
+
+Do not chase pace early.
+Fuel and hydrate consistently from the beginning.
+
+The objective is to finish the marathon in good enough condition to complete Sunday's half marathon.
+
+After finishing:
+Eat and drink promptly.
+Use the planned recovery sessions, massage/compression boots and recovery routine.
+Prioritise an early night.`,
+
+    objective:
+"Complete the trail marathon under control while preserving enough in the legs for Sunday's Swindon Half Marathon.",
+
+    thought:
+"Today is about restraint. The weekend isn't one race — it's a two-day challenge."
+},
+
+{
+    date: "2026-09-27",
+
+    day: "Sunday",
+
+    type: "race",
+
+    icon: "🏅",
+
+    block: "Swindon Half",
+
+    phase: "Race",
+
+    week: 12,
+
+    totalWeeks: 12,
+
+    title: "Swindon Half Marathon",
+
+    workout:
+`21.1 km road half marathon.
+
+Treat this as the second half of the endurance challenge rather than a standalone PB attempt.
+
+Start conservatively and settle into a sustainable effort.
+If the legs feel good late in the race, gradually increase the effort.
+
+Primary goal: finish.
+Sub-2:10 is a bonus.
+Sub-2:00 is only relevant if the body unexpectedly feels excellent and the effort remains controlled.
+
+Do not force pace early.`,
+
+    objective:
+"Complete the second leg after Saturday's marathon and finish the weekend strongly without compromising recovery.",
+
+    thought:
+"Saturday built the challenge. Today is the victory lap."
+},
+
+{
+    date: "2026-09-28",
+
+    day: "Monday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Post-Race",
+
+    phase: "Recovery",
+
+    week: 12,
+
+    totalWeeks: 12,
+
+    title: "In410 x RiS Post-Half Run Group",
+
+    workout:
+`OPTIONAL ONLY.
+
+Up to 10 km with the In410 x RiS run group collaboration.
+
+This is NOT a training session and absolutely not a race.
+
+Only attend if the marathon + half marathon weekend has left you feeling surprisingly good, with no significant soreness, pain or unusual fatigue.
+
+Keep the entire run extremely easy and conversational.
+Walking is completely acceptable.
+Stop early if the legs do not feel right.
+
+If in doubt: skip it.`,
+
+    objective:
+"Optional social recovery movement after the race weekend, with no requirement to complete the distance.",
+
+    thought:
+"Three days. 42 km + 21 km + another 10 km. The sensible answer is probably 'don't be an idiot'."
+},
+
+{
+    date: "2026-09-29",
+
+    day: "Tuesday",
+
+    type: "run",
+
+    icon: "🏃",
+
+    block: "Post-Race",
+
+    phase: "Recovery",
+
+    week: 12,
+
+    totalWeeks: 12,
+
+    title: "Runspire 5K",
+
+    workout:
+`FULLY OPTIONAL.
+
+5 km Runspire social run.
+
+Only participate if recovery from the weekend is excellent and Monday's optional run was either skipped or completed with no adverse response.
+
+Keep this genuinely easy.
+No racing and no chasing pace.
+
+If there is any significant soreness, fatigue or niggle: rest instead.`,
+
+    objective:
+"Optional social running only. Recovery takes priority over completing the session.",
+
+    thought:
+"Four days. 42 km + 21 km + 10 km + another 5 km. The sensible answer is probably 'don't be an idiot'."
 },
 
 ];
