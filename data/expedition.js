@@ -2243,7 +2243,7 @@ The goal is to finish feeling better than when you started`,
 
     type: "football",
 
-    icon: "⚽️"
+    icon: "⚽️",
 
     block: "Trail Builder",
 
