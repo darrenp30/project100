@@ -2532,19 +2532,19 @@ No Gym A after Monday's peak long run.`,
     title: "Easy Recovery Miles",
 
     workout:
-`7–9 km very easy.
+`5 km very easy.
 
 Conversational effort throughout.
 RPE 3–4/10.
 
 No pace target and no progression.
-If the legs still feel heavy after Monday, reduce the distance or stop early.`,
+Keep the effort deliberately relaxed and finish feeling fresher than when you started.`,
 
     objective:
-"Restore normal running rhythm after the peak long run without adding meaningful fatigue.",
+"Maintain running rhythm after the peak long run while keeping training load low ahead of the weekend.",
 
     thought:
-"Easy means easy. The fitness is already in the bank."
+"Five kilometres is plenty. The fitness is already in the bank."
 },
 
 {
@@ -2592,6 +2592,39 @@ No grinding reps and no deliberate muscle soreness.`,
 
     day: "Friday",
 
+    type: "run",
+
+    icon: "🍻",
+
+    block: "Trail Builder",
+
+    phase: "Peak Endurance",
+
+    week: 10,
+
+    totalWeeks: 12,
+
+    title: "In410 Great North Swindon Pub Run",
+
+    workout:
+`10km beer run race day 🏁
+
+Course: approximately 10km on road, incorporating 6 pub hydration stops.
+
+Six hydration stops, shots or spirits recommended.`,
+
+objective:
+"Peak for the year's primary competitive objective. Deliver a controlled but decisive 10km performance across six official venues, managing the on-course hydration stations without compromising race execution. Every kilometre matters. Execution of every stop matters. The season has been building towards this.",
+
+thought:
+"The training is complete. The taper is complete. There is nothing left to prove. Today, Swindon decides who is worthy."
+},
+
+{
+    date: "2026-09-12",
+
+    day: "Saturday",
+
     type: "rest",
 
     icon: "😴",
@@ -2604,53 +2637,24 @@ No grinding reps and no deliberate muscle soreness.`,
 
     totalWeeks: 12,
 
-    title: "Rest Day",
+    title: "Post-Pub-Run Recovery",
 
     workout:
 `Complete rest from structured training.
 
-Easy walking and light mobility are fine.`,
+Easy walking is fine if it feels good.
+Light mobility if useful.
+
+No running.
+No Gym.
+
+Prioritise fluids, food and sleep following Friday's event.`,
 
     objective:
-"Recover before the final long easy run of the build.",
+"Absorb the week's training and recover from the pub run before the final substantial endurance session on Sunday.",
 
     thought:
-"Fresh legs are now more valuable than extra miles."
-},
-
-{
-    date: "2026-09-12",
-
-    day: "Saturday",
-
-    type: "run",
-
-    icon: "🏃",
-
-    block: "Trail Builder",
-
-    phase: "Peak Endurance",
-
-    week: 10,
-
-    totalWeeks: 12,
-
-    title: "Easy Trail Run",
-
-    workout:
-`5–7 km very easy trail running.
-
-RPE 3–4/10.
-Conversational throughout.
-No pace target and no hard hills.
-
-Finish feeling fresher than when you started.`,
-
-    objective:
-"Maintain running frequency while continuing the transition from peak training towards taper.",
-
-    thought:
-"You're not building fitness today. You're keeping the engine ticking over."
+"Yesterday was apparently a race. Today is therefore an essential recovery day."
 },
 
 {
