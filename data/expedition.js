@@ -2674,25 +2674,22 @@ Prioritise fluids, food and sleep following Friday's event.`,
 
     totalWeeks: 12,
 
-    title: "Final Long Easy Run",
+    title: "Easy Recovery Miles",
 
     workout:
-`20–22 km easy trail run.
+`5 km very easy road running.
 
-Keep the entire run conversational.
-Walk steeper climbs freely.
-No pace targets and no hard efforts.
+RPE 3–4/10.
+Conversational throughout.
+No pace target and no progression.
 
-Practise normal race-day fuelling and hydration, but do not turn this into another peak session.
-
-20 km is sufficient.
-Extend towards 22 km only if the legs feel good and Monday's peak run has been absorbed well.`,
+Keep the effort deliberately relaxed, particularly after yesterday's 15 km walk.`,
 
     objective:
-"Complete the final substantial endurance run before tapering volume further.",
+"Maintain running rhythm while absorbing the weekend's combined running and walking load without adding unnecessary fatigue.",
 
     thought:
-"This is the last long one. From here, we're protecting the fitness rather than chasing more."
+"Five kilometres is enough. The fitness is already in the bank — tonight is about arriving fresh for the final endurance run."
 },
 
 {
@@ -2712,23 +2709,29 @@ Extend towards 22 km only if the legs feel good and Monday's peak run has been a
 
     totalWeeks: 12,
 
-    title: "Easy Run Club",
+    title: "Final Long Easy Run",
 
     workout:
-`8–10 km with the Run Club back group.
+`20 km easy road running, including the 10 km Monday run club.
 
-Keep this genuinely easy and conversational.
-Aim for roughly 6:30/km or slower, depending on the group.
+Run approximately 5 km to run club, complete the 10 km run club route, then run approximately 5 km home.
 
-No racing, no surges and no chasing anyone who runs ahead.
+Keep the entire session genuinely easy and conversational.
+RPE 3–4/10.
+No pace target and no hard efforts.
 
-If the legs feel tired after Sunday's long run, cut this to 6–8 km or stop early.`,
+Use the session to practise normal race-day fuelling and hydration.
+
+Do not extend the run beyond 20 km.
+If the legs feel unusually tired, reduce the distance rather than forcing the full session.
+
+This is the final substantial endurance run before Bristol–Bath.`,
 
     objective:
-"Maintain running frequency while allowing fatigue to continue falling.",
+"Complete the final meaningful endurance stimulus before the taper while maintaining a controlled effort and finishing with plenty in reserve.",
 
     thought:
-"You're here to socialise and loosen the legs, not win Run Club."
+"This is it. One last 20 km, then the training is done. From here, we protect the fitness rather than chase it."
 },
 
 {
