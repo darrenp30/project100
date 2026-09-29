@@ -3287,7 +3287,254 @@ If there is any significant soreness, fatigue or niggle: rest instead.`,
 "Optional social running only. Recovery takes priority over completing the session.",
 
     thought:
-"Four days. 42 km + 21 km + 10 km + another 5 km. The sensible answer is probably 'don't be an idiot'."
+"Four days. 42 km + 21 km + 10 km + another 5 km. The sensible thought is probably 'don't be an idiot'."
+},
+
+{
+  date:"2026-09-30", day:"Wednesday", type:"rest", icon:"🛌",
+  block:"Recovery", phase:"Post-Race Recovery", week:12,totalWeeks:12,
+  title:"Complete Rest Day",
+  workout:
+`Complete rest from running.
+
+Normal gentle daily movement is fine, but no planned training.
+
+Prioritise food, hydration and sleep after the four-day endurance block.
+
+No need to chase mileage today.`,
+  objective:
+"Allow the body to absorb the 79 km four-day endurance block and begin genuine recovery.",
+  thought:
+"Four days. Nearly 80 km. Now do absolutely nothing heroic."
+},
+
+{
+  date:"2026-10-01", day:"Thursday", type:"run", icon:"🏃",
+  block:"Recovery", phase:"Post-Race Recovery", week:12,totalWeeks:12,
+  title:"Easy Recovery Run",
+  workout:
+`5–6 km very easy road running.
+
+RPE 2–3/10.
+Conversational throughout.
+No pace target.
+
+Start very gently and allow the legs to loosen naturally.
+
+If the legs feel unusually heavy, stiff or sore, replace the run with an easy walk or take another rest day.`,
+  objective:
+"Reintroduce gentle running after the four-day endurance block without adding meaningful fatigue.",
+  thought:
+"The hard work is done. This is movement, not training."
+},
+
+{
+  date:"2026-10-02", day:"Friday", type:"rest", icon:"🛌",
+  block:"Recovery", phase:"Post-Race Recovery", week:12,totalWeeks:12,
+  title:"Rest & Recover",
+  workout:
+`Rest from running.
+
+Gentle walking is fine if it feels good.
+
+No structured workout and no need to compensate for missed mileage.`,
+  objective:
+"Continue recovering while allowing any residual muscular fatigue to settle.",
+  thought:
+"Recovery is part of the training."
+},
+
+{
+  date:"2026-10-03", day:"Saturday", type:"run", icon:"🏃",
+  block:"Recovery", phase:"Post-Race Recovery", week:12,totalWeeks:12,
+  title:"Optional Easy Miles",
+  workout:
+`Optional 5 km very easy road running.
+
+RPE 3/10.
+Conversational throughout.
+No pace target.
+
+Only run if the legs feel broadly normal.
+If there is significant soreness, fatigue or any concerning pain, skip the run and walk instead.`,
+  objective:
+"Check that normal easy running is returning without forcing the recovery process.",
+  thought:
+"Optional means optional. There is nothing left to prove this week."
+},
+
+{
+  date:"2026-10-04", day:"Sunday", type:"run", icon:"🏃",
+  block:"Base Builder", phase:"Return to Training", week:12,totalWeeks:12,
+  title:"Easy Rebuild Run",
+  workout:
+`8–10 km easy road running.
+
+RPE 3–4/10.
+Conversational throughout.
+No pace target.
+
+Keep the route comfortable and relatively flat where practical.
+
+Do not progress the pace towards the end.
+If fatigue from the previous weekend is still obvious, keep this to 6–8 km or take another rest day.`,
+  objective:
+"Return gradually towards normal weekly running volume while keeping the first post-race week deliberately conservative.",
+  thought:
+"Leave the weekend wanting to run more, not needing to recover from it."
+},
+
+{
+  date:"2026-10-05", day:"Monday", type:"run", icon:"🏃",
+  block:"Pace Builder", phase:"Speed & Endurance", week:1,totalWeeks:8,
+  title:"Easy Run Club Return",
+  workout:
+`8–10 km easy road running, including Monday run club if desired.
+
+RPE 3–4/10.
+Conversational throughout.
+No pace target.
+
+Keep the run genuinely easy even if the legs feel surprisingly good.
+
+Do not turn the session into a test of fitness after the marathon weekend.`,
+  objective:
+"Return to the normal weekly rhythm while preserving the endurance base built over the summer.",
+  thought:
+"The fitness isn't going anywhere. Let the speed come later."
+},
+
+{
+  date:"2026-10-06", day:"Tuesday", type:"gym", icon:"🏋️",
+  block:"Pace Builder", phase:"Speed & Endurance", week:1,totalWeeks:8,
+  title:"Moderate Strength",
+  workout:
+`Moderate full-body strength session.
+
+Lower body:
+3 × 6–8 squats or leg press
+3 × 8 Romanian deadlifts
+2 × 8 split squats each side
+3 × 10–12 calf raises
+
+Upper body:
+3 × 8–10 rows
+3 × 8–10 presses
+
+Finish with 2–3 controlled core sets.
+
+Keep approximately 2–3 reps in reserve on every set.
+Do not chase failure or create significant DOMS.`,
+  objective:
+"Reintroduce normal strength training while supporting running durability and avoiding unnecessary fatigue.",
+  thought:
+"Strong enough to run fast, fresh enough to actually run."
+},
+
+{
+  date:"2026-10-07", day:"Wednesday", type:"run", icon:"🏃",
+  block:"Pace Builder", phase:"Speed & Endurance", week:1,totalWeeks:8,
+  title:"Easy Aerobic Run",
+  workout:
+`6–8 km easy road running.
+
+RPE 3–4/10.
+Conversational throughout.
+No pace target.
+
+Keep the effort relaxed and resist the temptation to test the new fitness.`,
+  objective:
+"Build easy road mileage around the first quality session of the autumn pace block.",
+  thought:
+"Easy miles make the quality miles possible."
+},
+
+{
+  date:"2026-10-08", day:"Thursday", type:"run", icon:"⚡",
+  block:"Pace Builder", phase:"Speed & Endurance", week:1,totalWeeks:8,
+  title:"Controlled Tempo Intervals",
+  workout:
+`8–9 km total on the road.
+
+Warm up with 2 km very easy.
+
+Then complete:
+3 × 6 minutes controlled tempo running.
+
+Target effort:
+RPE 6–7/10.
+Approximately 5:40–5:55/km if that matches the effort.
+
+Recover with 2–3 minutes very easy jogging between repetitions.
+
+Cool down easily to complete the session.
+
+The final repetition should feel controlled.
+You should finish knowing you could have completed another repetition if required.
+
+Do not turn this into a 10K race.`,
+  objective:
+"Begin converting the endurance base into a faster sustainable cruising speed without compromising recovery.",
+  thought:
+"We're teaching the engine to use the endurance you've built at a higher speed."
+},
+
+{
+  date:"2026-10-09", day:"Friday", type:"rest", icon:"🛌",
+  block:"Pace Builder", phase:"Speed & Endurance", week:1,totalWeeks:8,
+  title:"Rest Day",
+  workout:
+`Rest from running.
+
+Gentle walking and normal daily activity are fine.
+
+No compensatory mileage.`,
+  objective:
+"Absorb Thursday's first quality session and keep the weekend fresh.",
+  thought:
+"Quality training only works if you recover from it."
+},
+
+{
+  date:"2026-10-10", day:"Saturday", type:"run", icon:"🏃",
+  block:"Pace Builder", phase:"Speed & Endurance", week:1,totalWeeks:8,
+  title:"Optional Easy Parkrun",
+  workout:
+`Optional 5 km easy running.
+
+RPE 3–4/10.
+No racing.
+No PB attempt.
+
+If Thursday's tempo session has left you tired, skip the run.
+
+If you do run, keep it conversational and resist being pulled along by the group.`,
+  objective:
+"Add optional easy volume without compromising recovery from the first quality session.",
+  thought:
+"Parkrun is training today, not racing."
+},
+
+{
+  date:"2026-10-11", day:"Sunday", type:"run", icon:"🏃",
+  block:"Pace Builder", phase:"Speed & Endurance", week:1,totalWeeks:8,
+  title:"Long Easy Road Run",
+  workout:
+`12–14 km easy road running.
+
+RPE 3–4/10.
+Conversational throughout.
+No pace target.
+
+Keep the route comfortable.
+Avoid deliberately seeking hills or difficult terrain.
+
+Practise normal hydration and fuelling habits.
+No progression and no hard finish.`,
+  objective:
+"Re-establish the long-run component of the training week while beginning the autumn speed-and-endurance phase.",
+  thought:
+"Keep the endurance. Add the speed gradually."
 },
 
 ];
