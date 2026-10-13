@@ -3537,6 +3537,452 @@ No progression and no hard finish.`,
 "Keep the endurance. Add the speed gradually."
 },
 
+  // WEEK 1 — RETURN TO RUNNING
+  {
+    date:"2026-10-13", day:"Tuesday", type:"rest", icon:"🛌",
+    block:"Recovery", phase:"Sciatic Return", week:1,totalWeeks:6,
+    title:"Recovery & Monitor",
+    workout:`Rest from running today following last night's 10K.
+
+Gentle everyday movement is fine if comfortable.
+
+Monitor your back, hamstring and leg over the next 24–48 hours. No compensatory mileage.`,
+    objective:"Confirm the successful return run has not triggered delayed symptoms.",
+    thought:"One good run is encouraging. Let's make it the start of a good comeback."
+  },
+  {
+    date:"2026-10-14", day:"Wednesday", type:"rest", icon:"🚶",
+    block:"Recovery", phase:"Sciatic Return", week:1,totalWeeks:6,
+    title:"Gentle Movement",
+    workout:`Optional comfortable walk for 20–40 minutes.
+
+No running or structured gym session. Avoid anything that reproduces radiating pain.`,
+    objective:"Maintain comfortable movement without adding training fatigue.",
+    thought:"Movement is useful; forcing it is not."
+  },
+  {
+    date:"2026-10-15", day:"Thursday", type:"run", icon:"🏃",
+    block:"Recovery", phase:"Sciatic Return", week:1,totalWeeks:6,
+    title:"Easy Return Run",
+    workout:`4–5 km easy on the road.
+
+RPE 2–3/10. Conversational throughout.
+
+No pace target, strides or hills. Stop if radiating pain, unusual weakness or altered running mechanics appear.
+
+Only run if symptoms have remained settled.`,
+    objective:"Reintroduce a short, controlled run after the successful 10K.",
+    thought:"Finish feeling as though you could comfortably do more."
+  },
+  {
+    date:"2026-10-16", day:"Friday", type:"rest", icon:"🛌",
+    block:"Recovery", phase:"Sciatic Return", week:1,totalWeeks:6,
+    title:"Rest Day",
+    workout:`No running.
+
+Normal daily activity and gentle walking are fine if comfortable. No heavy lower-body lifting.`,
+    objective:"Allow recovery after the first short run.",
+    thought:"There is no prize for rushing this."
+  },
+  {
+    date:"2026-10-17", day:"Saturday", type:"run", icon:"🏃",
+    block:"Recovery", phase:"Sciatic Return", week:1,totalWeeks:6,
+    title:"Easy Run",
+    workout:`Optional 4–5 km easy road run.
+
+RPE 2–3/10. Conversational, with no pace target.
+
+Only proceed if Thursday caused no recurrence of symptoms during or after the run. Otherwise rest or walk comfortably.`,
+    objective:"Build consistency only if the first run was well tolerated.",
+    thought:"Repeatable is better than impressive."
+  },
+  {
+    date:"2026-10-18", day:"Sunday", type:"walk", icon:"🚶",
+    block:"Recovery", phase:"Sciatic Return", week:1,totalWeeks:6,
+    title:"Comfortable Walk",
+    workout:`30–60 minutes of comfortable walking.
+
+Keep it relaxed rather than turning it into a training hike. No requirement to run.`,
+    objective:"Maintain walking habits without overloading the recovering back and leg.",
+    thought:"Easy days count too."
+  },
+
+  // WEEK 2 — BUILD GENTLY
+  {
+    date:"2026-10-19", day:"Monday", type:"run", icon:"🏃",
+    block:"Rebuild", phase:"Halloween Walk Preparation", week:2,totalWeeks:6,
+    title:"Easy Run Club",
+    workout:`8–10 km easy with the back group at Run Club, only if the previous week was symptom-free.
+
+Keep it conversational, normally around 6:30/km or slower. No fast finish and no extra mileage.
+
+If symptoms have returned, skip the run and follow your physio's advice.`,
+    objective:"Reintroduce the normal Monday routine without adding intensity.",
+    thought:"Run your own effort, not someone else's pace."
+  },
+  {
+    date:"2026-10-20", day:"Tuesday", type:"gym", icon:"🏋️",
+    block:"Rebuild", phase:"Halloween Walk Preparation", week:2,totalWeeks:6,
+    title:"Light Gym",
+    workout:`Optional light upper-body and core session.
+
+Use comfortable, controlled movements. Avoid heavy squats, deadlifts or any exercise that aggravates your back or leg.
+
+No training to failure. Skip the session if symptoms are unsettled.`,
+    objective:"Maintain gym routine without provoking the affected area.",
+    thought:"Train around the problem, not through it."
+  },
+  {
+    date:"2026-10-21", day:"Wednesday", type:"run", icon:"🏃",
+    block:"Rebuild", phase:"Halloween Walk Preparation", week:2,totalWeeks:6,
+    title:"Easy Road Run",
+    workout:`5–6 km easy.
+
+RPE 3/10. Conversational throughout. No pace target, intervals or strides.
+
+Only increase distance if previous runs have been comfortable during the run and the following day.`,
+    objective:"Gradually restore running frequency.",
+    thought:"Consistency first; speed can wait."
+  },
+  {
+    date:"2026-10-22", day:"Thursday", type:"rest", icon:"🛌",
+    block:"Rebuild", phase:"Halloween Walk Preparation", week:2,totalWeeks:6,
+    title:"Recovery Day",
+    workout:`Rest from running and gym.
+
+Comfortable everyday walking is fine. Follow any mobility or rehabilitation advice given by your physio.`,
+    objective:"Recover before the weekend's walking preparation.",
+    thought:"Fresh legs are useful legs."
+  },
+  {
+    date:"2026-10-23", day:"Friday", type:"rest", icon:"🛌",
+    block:"Rebuild", phase:"Halloween Walk Preparation", week:2,totalWeeks:6,
+    title:"Rest",
+    workout:`Rest day.
+
+No need to add mileage or squeeze in a missed workout.`,
+    objective:"Keep fatigue low ahead of the weekend.",
+    thought:"The plan adapts to you, not the other way around."
+  },
+  {
+    date:"2026-10-24", day:"Saturday", type:"walk", icon:"🚶",
+    block:"Rebuild", phase:"Halloween Walk Preparation", week:2,totalWeeks:6,
+    title:"Easy Walking",
+    workout:`Optional 45–75 minute comfortable walk.
+
+Keep the terrain straightforward and effort easy. Do not turn this into a long hike.`,
+    objective:"Maintain walking tolerance without accumulating unnecessary fatigue.",
+    thought:"Build confidence, not exhaustion."
+  },
+  {
+    date:"2026-10-25", day:"Sunday", type:"walk", icon:"🚶",
+    block:"Rebuild", phase:"Halloween Walk Preparation", week:2,totalWeeks:6,
+    title:"Longer Easy Walk",
+    workout:`Optional 8–10 km comfortable walk if symptoms have remained settled.
+
+Keep the pace relaxed and use comfortable footwear. Stop if radiating pain or unusual weakness returns.
+
+If you feel any symptoms, shorten or skip the walk.`,
+    objective:"Check walking tolerance ahead of the 25 km event without forcing a big training day.",
+    thought:"Arrive at Halloween with something left in the tank."
+  },
+
+  // WEEK 3 — HALLOWEEN WALK WEEK
+  {
+    date:"2026-10-26", day:"Monday", type:"run", icon:"🏃",
+    block:"Rebuild", phase:"Halloween Walk Preparation", week:3,totalWeeks:6,
+    title:"Easy Run Club",
+    workout:`Optional 6–8 km easy road running with the back group.
+
+Conversational throughout. No extra approach mileage, fast finish or pace target.
+
+Skip the run if the previous weekend's walking caused symptoms or unusual fatigue.`,
+    objective:"Maintain running routine while reducing overall load before the event.",
+    thought:"You don't need to prove your fitness this week."
+  },
+  {
+    date:"2026-10-27", day:"Tuesday", type:"rest", icon:"🛌",
+    block:"Recovery", phase:"Halloween Walk Preparation", week:3,totalWeeks:6,
+    title:"Rest & Prepare",
+    workout:`Rest from running and lower-body gym work.
+
+Normal gentle movement is fine. Prioritise sleep, food and hydration.`,
+    objective:"Keep the legs fresh and the back settled.",
+    thought:"Preparation beats squeezing in another session."
+  },
+  {
+    date:"2026-10-28", day:"Wednesday", type:"run", icon:"🏃",
+    block:"Rebuild", phase:"Halloween Walk Preparation", week:3,totalWeeks:6,
+    title:"Short Easy Run",
+    workout:`4–5 km easy only if completely comfortable.
+
+RPE 2–3/10. No pace target or workout.
+
+If there is any recurrence of radiating symptoms, skip the run.`,
+    objective:"Maintain a little running rhythm without creating fatigue.",
+    thought:"A short run is enough."
+  },
+  {
+    date:"2026-10-29", day:"Thursday", type:"rest", icon:"🛌",
+    block:"Recovery", phase:"Halloween Walk Preparation", week:3,totalWeeks:6,
+    title:"Rest Day",
+    workout:`Rest from running and gym.
+
+Check your footwear, clothing, hydration and food for Saturday.`,
+    objective:"Arrive rested and organised.",
+    thought:"Nothing to gain from last-minute heroics."
+  },
+  {
+    date:"2026-10-30", day:"Friday", type:"rest", icon:"🛌",
+    block:"Recovery", phase:"Halloween Walk Preparation", week:3,totalWeeks:6,
+    title:"Pre-Event Rest",
+    workout:`Full rest from training.
+
+Eat normally, hydrate and prepare your kit. No need for a shakeout run.`,
+    objective:"Arrive at the event feeling fresh.",
+    thought:"Tomorrow is about enjoying the walk."
+  },
+  {
+    date:"2026-10-31", day:"Saturday", type:"event", icon:"🎃",
+    block:"Event", phase:"Halloween 25K Walk", week:3,totalWeeks:6,
+    title:"Halloween Ultra Challenge — 25 km Walk",
+    workout:`Complete the 25 km walk at a comfortable, sustainable effort.
+
+Start conservatively. Take regular food and fluids and use aid stations as needed.
+
+Do not race the clock. Be willing to shorten or stop if back or leg symptoms return.
+
+Completion is optional if your health says otherwise.`,
+    objective:"Enjoy the event and complete it comfortably if symptoms remain settled.",
+    thought:"Steady, fuelled and sensible gets you to the finish."
+  },
+
+  // WEEK 4 — RECOVER FROM THE WALK
+  {
+    date:"2026-11-01", day:"Sunday", type:"rest", icon:"🛌",
+    block:"Recovery", phase:"Post-Walk Recovery", week:4,totalWeeks:6,
+    title:"Recovery Day",
+    workout:`Rest after the 25 km walk.
+
+Gentle movement only if comfortable. No running or gym.`,
+    objective:"Allow recovery after the event.",
+    thought:"The medal is earned. Now recover."
+  },
+  {
+    date:"2026-11-02", day:"Monday", type:"rest", icon:"🛌",
+    block:"Recovery", phase:"Post-Walk Recovery", week:4,totalWeeks:6,
+    title:"Rest or Gentle Walk",
+    workout:`Rest from running.
+
+A short, comfortable walk is optional if you feel good. Do not force Run Club.`,
+    objective:"Check that the event has not triggered delayed symptoms.",
+    thought:"Don't rush straight back into the routine."
+  },
+  {
+    date:"2026-11-03", day:"Tuesday", type:"gym", icon:"🏋️",
+    block:"Recovery", phase:"Post-Walk Recovery", week:4,totalWeeks:6,
+    title:"Optional Light Gym",
+    workout:`Optional upper-body and gentle core work only if comfortable.
+
+No heavy lower-body lifting or movements that aggravate your back or leg.`,
+    objective:"Return to normal activity gradually.",
+    thought:"Keep it easy enough to recover from easily."
+  },
+  {
+    date:"2026-11-04", day:"Wednesday", type:"run", icon:"🏃",
+    block:"Rebuild", phase:"Silverstone Preparation", week:4,totalWeeks:6,
+    title:"Easy Return Run",
+    workout:`5–6 km easy, provided the Halloween walk and recovery days were symptom-free.
+
+RPE 3/10. Conversational throughout. No pace target or speedwork.`,
+    objective:"Resume running after the walk without a sudden training jump.",
+    thought:"Let the legs tell you what they are ready for."
+  },
+  {
+    date:"2026-11-05", day:"Thursday", type:"rest", icon:"🛌",
+    block:"Recovery", phase:"Silverstone Preparation", week:4,totalWeeks:6,
+    title:"Rest Day",
+    workout:`Rest from running. Comfortable everyday movement is fine.`,
+    objective:"Recover from the return run.",
+    thought:"Freshness is part of the plan."
+  },
+  {
+    date:"2026-11-06", day:"Friday", type:"run", icon:"🏃",
+    block:"Rebuild", phase:"Silverstone Preparation", week:4,totalWeeks:6,
+    title:"Easy Road Run",
+    workout:`5–6 km easy if Wednesday was well tolerated.
+
+Conversational throughout. No faster finish, hills or intervals.`,
+    objective:"Build a repeatable easy-running routine.",
+    thought:"No need to rush the comeback."
+  },
+  {
+    date:"2026-11-07", day:"Saturday", type:"rest", icon:"🛌",
+    block:"Recovery", phase:"Silverstone Preparation", week:4,totalWeeks:6,
+    title:"Rest",
+    workout:`Rest or take a short comfortable walk.`,
+    objective:"Prepare for Sunday's longer easy session.",
+    thought:"Recover before building."
+  },
+  {
+    date:"2026-11-08", day:"Sunday", type:"run", icon:"🏃",
+    block:"Rebuild", phase:"Silverstone Preparation", week:4,totalWeeks:6,
+    title:"Easy Longer Run",
+    workout:`8–10 km easy on the road, only if all recent sessions have been symptom-free.
+
+RPE 3–4/10. Conversational throughout. No progression or hard finish.
+
+If you have not returned to comfortable running, shorten the session or walk instead.`,
+    objective:"Reintroduce a modest longer run ahead of the half marathon.",
+    thought:"Build the distance only when the body agrees."
+  },
+
+  // WEEK 5 — HALF-MARATHON PREPARATION
+  {
+    date:"2026-11-09", day:"Monday", type:"run", icon:"🏃",
+    block:"Rebuild", phase:"Silverstone Preparation", week:5,totalWeeks:6,
+    title:"Easy Run Club",
+    workout:`6–8 km easy with the back group, if recovered from Sunday.
+
+Keep it conversational. No fast finish and no additional mileage.`,
+    objective:"Maintain routine without stacking too much load.",
+    thought:"Easy means easy, even when fitness feels good."
+  },
+  {
+    date:"2026-11-10", day:"Tuesday", type:"gym", icon:"🏋️",
+    block:"Rebuild", phase:"Silverstone Preparation", week:5,totalWeeks:6,
+    title:"Light Strength",
+    workout:`Optional moderate upper body and controlled core work.
+
+Only add lower-body exercises already known to be comfortable. No heavy lifting, failure sets or movements that reproduce symptoms.`,
+    objective:"Maintain strength without compromising running recovery.",
+    thought:"Leave the gym feeling better than when you arrived."
+  },
+  {
+    date:"2026-11-11", day:"Wednesday", type:"run", icon:"🏃",
+    block:"Rebuild", phase:"Silverstone Preparation", week:5,totalWeeks:6,
+    title:"Easy Road Run",
+    workout:`6–7 km easy.
+
+RPE 3–4/10. Conversational throughout. No intervals or tempo work.`,
+    objective:"Maintain aerobic fitness and comfortable running frequency.",
+    thought:"The goal is to reach the start line healthy."
+  },
+  {
+    date:"2026-11-12", day:"Thursday", type:"rest", icon:"🛌",
+    block:"Recovery", phase:"Silverstone Preparation", week:5,totalWeeks:6,
+    title:"Rest Day",
+    workout:`Rest from running and gym. Comfortable daily movement is fine.`,
+    objective:"Absorb the week's training.",
+    thought:"Don't turn recovery into another workout."
+  },
+  {
+    date:"2026-11-13", day:"Friday", type:"run", icon:"🏃",
+    block:"Rebuild", phase:"Silverstone Preparation", week:5,totalWeeks:6,
+    title:"Easy Run",
+    workout:`5–6 km easy if symptom-free.
+
+Keep the effort conversational, with no pace target.`,
+    objective:"Maintain consistency without adding unnecessary fatigue.",
+    thought:"Smooth and comfortable is the win."
+  },
+  {
+    date:"2026-11-14", day:"Saturday", type:"rest", icon:"🛌",
+    block:"Recovery", phase:"Silverstone Preparation", week:5,totalWeeks:6,
+    title:"Rest Day",
+    workout:`Rest or a short comfortable walk.`,
+    objective:"Prepare for the longest run of this rebuild, if appropriate.",
+    thought:"Save your energy for tomorrow."
+  },
+  {
+    date:"2026-11-15", day:"Sunday", type:"run", icon:"🏃",
+    block:"Rebuild", phase:"Silverstone Preparation", week:5,totalWeeks:6,
+    title:"Long Easy Run",
+    workout:`10–12 km easy road running, only if the previous fortnight has been symptom-free.
+
+RPE 3–4/10. Conversational throughout. No hard finish.
+
+If symptoms recur or the previous runs have not been comfortable, reduce the distance or walk instead.`,
+    objective:"Build enough comfortable endurance for Silverstone without forcing a half-marathon training load.",
+    thought:"A healthy 10K beats an injured 12K."
+  },
+
+  // WEEK 6 — TAPER AND SILVERSTONE
+  {
+    date:"2026-11-16", day:"Monday", type:"run", icon:"🏃",
+    block:"Taper", phase:"Silverstone Half Marathon", week:6,totalWeeks:6,
+    title:"Easy Run Club",
+    workout:`Optional 6–8 km easy with the back group.
+
+Keep it conversational and skip it if Sunday's run caused any symptoms or unusual fatigue.`,
+    objective:"Maintain routine while reducing fatigue before race week.",
+    thought:"Nothing to prove in the final week."
+  },
+  {
+    date:"2026-11-17", day:"Tuesday", type:"rest", icon:"🛌",
+    block:"Taper", phase:"Silverstone Half Marathon", week:6,totalWeeks:6,
+    title:"Rest Day",
+    workout:`Rest from running. Gentle daily movement is fine.
+
+No heavy gym work.`,
+    objective:"Allow recovery during race week.",
+    thought:"Freshness beats fitness gains this week."
+  },
+  {
+    date:"2026-11-18", day:"Wednesday", type:"run", icon:"🏃",
+    block:"Taper", phase:"Silverstone Half Marathon", week:6,totalWeeks:6,
+    title:"Short Easy Run",
+    workout:`4–5 km easy only if completely comfortable.
+
+No intervals, strides or pace target. Stop if symptoms return.`,
+    objective:"Keep running familiar without adding fatigue.",
+    thought:"Finish fresh, not fatigued."
+  },
+  {
+    date:"2026-11-19", day:"Thursday", type:"rest", icon:"🛌",
+    block:"Taper", phase:"Silverstone Half Marathon", week:6,totalWeeks:6,
+    title:"Rest & Prepare",
+    workout:`Rest from running and gym.
+
+Prepare race kit and plan travel, hydration and breakfast.`,
+    objective:"Reduce stress and keep the body settled.",
+    thought:"The training is done."
+  },
+  {
+    date:"2026-11-20", day:"Friday", type:"rest", icon:"🛌",
+    block:"Taper", phase:"Silverstone Half Marathon", week:6,totalWeeks:6,
+    title:"Rest Day",
+    workout:`Rest. Gentle walking is fine if comfortable.
+
+Eat normally, hydrate and prioritise sleep.`,
+    objective:"Arrive at the weekend rested.",
+    thought:"Don't squeeze in fitness at the last minute."
+  },
+  {
+    date:"2026-11-21", day:"Saturday", type:"rest", icon:"🛌",
+    block:"Taper", phase:"Silverstone Half Marathon", week:6,totalWeeks:6,
+    title:"Pre-Race Rest",
+    workout:`Rest from running.
+
+Check kit, plan breakfast and drink normally. No need for a shakeout run.`,
+    objective:"Prepare calmly for race day.",
+    thought:"Tomorrow is about a comfortable finish."
+  },
+  {
+    date:"2026-11-22", day:"Sunday", type:"event", icon:"🏅",
+    block:"Race Day", phase:"Silverstone Half Marathon", week:6,totalWeeks:6,
+    title:"Silverstone Half Marathon",
+    workout:`21.1 km road half marathon.
+
+The priority is a comfortable completion, not a PB.
+
+Start conservatively and keep the effort controlled. Do not chase a pace target.
+
+Only start if the sciatic symptoms have remained settled and normal running is comfortable. If symptoms recur beforehand, seek advice from your physio rather than forcing the event.`,
+    objective:"Enjoy the event and complete it sensibly if recovered sufficiently.",
+    thought:"The best result is finishing healthy."
+  },
+
 ];
 
 // =========================================
